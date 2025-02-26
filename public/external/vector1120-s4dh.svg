@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg width='89' height='89' viewBox='0 0 89 89' fill='none' xmlns='http://www.w3.org/2000/svg'>
+<path style='mix-blend-mode:screen' opacity='0.61' d='M44.3225 88.5278C68.5929 88.5278 88.268 68.7099 88.268 44.2634C88.268 19.8168 68.5929 -0.000976562 44.3225 -0.000976562C20.052 -0.000976562 0.376892 19.8168 0.376892 44.2634C0.376892 68.7099 20.052 88.5278 44.3225 88.5278Z' fill='url(#paint0_radial_1_1208)'/>
+<defs>
+<radialGradient id='paint0_radial_1_1208' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='translate(44.3225 44.2634) scale(43.9456 44.2644)'>
+<stop stop-color='#D1FF44'/>
+<stop offset='0.08' stop-color='#A5C935'/>
+<stop offset='0.17' stop-color='#7E9A29'/>
+<stop offset='0.26' stop-color='#5C711E'/>
+<stop offset='0.35' stop-color='#404E14'/>
+<stop offset='0.45' stop-color='#28310D'/>
+<stop offset='0.56' stop-color='#161B07'/>
+<stop offset='0.68' stop-color='#090C03'/>
+<stop offset='0.81' stop-color='#020200'/>
+<stop offset='1'/>
+</radialGradient>
+</defs>
+</svg>

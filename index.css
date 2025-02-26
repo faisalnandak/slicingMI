@@ -1,0 +1,9107 @@
+.henripayfaisal-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+ 
+.henripayfaisal-henripayfaisal {
+  width: 100%;
+  height: 7442px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-self: center;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: var(--dl-color-default-1e1e2c);
+}
+ 
+.henripayfaisal-footer1 {
+  top: 6912px;
+  left: 0px;
+  right: 0px;
+  width: 1134px;
+  height: 458px;
+  margin: auto;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 50px;
+  background-color: rgba(30, 30, 44, 1);
+}
+ 
+.henripayfaisal-ellipse91 {
+  top: 21px;
+  left: 942px;
+  width: 385px;
+  height: 385px;
+  opacity: 0.35;
+  position: absolute;
+}
+ 
+.henripayfaisal-ellipse101 {
+  top: -76px;
+  left: -211px;
+  width: 421px;
+  height: 421px;
+  opacity: 0.50;
+  position: absolute;
+}
+ 
+.henripayfaisal-text100 {
+  top: 156px;
+  left: 111px;
+  color: var(--dl-color-default-ffffff);
+  width: 911px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: 24px;
+}
+ 
+.henripayfaisal-group46 {
+  top: 318px;
+  left: 846px;
+  width: 176px;
+  height: 72px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group44 {
+  top: 0px;
+  left: 0px;
+  width: 176px;
+  height: 72px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-text101 {
+  color: var(--dl-color-default-ffffff);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: 23.306358337402344px;
+}
+ 
+.henripayfaisal-frame43 {
+  gap: 40px;
+  top: 40px;
+  left: 0px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+ 
+.henripayfaisal-iconsocmedinstagram {
+  width: 32px;
+  height: 32px;
+}
+ 
+.henripayfaisal-iconsocmedtwitter {
+  width: 32px;
+  height: 32px;
+}
+ 
+.henripayfaisal-iconsocmedlinkedin {
+  width: 32px;
+  height: 32px;
+}
+ 
+.henripayfaisal-group47 {
+  top: 60px;
+  left: 426px;
+  width: 281.99969482421875px;
+  height: 58.486515045166016px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group11 {
+  top: 0px;
+  left: 0px;
+  width: 63.950992584228516px;
+  height: 58.136539459228516px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-subtract1 {
+  top: 0.0001220703125px;
+  left: 5.850899696350098px;
+  width: 58px;
+  height: 58px;
+  position: absolute;
+}
+ 
+.henripayfaisal-ellipse31 {
+  top: 5.813681125640869px;
+  left: 0px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.henripayfaisal-henri-pay1 {
+  top: 11.982177734375px;
+  left: 78.5498046875px;
+  width: 203px;
+  height: 47px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.henripayfaisal-frame4170 {
+  gap: 20px;
+  top: 373px;
+  left: 111px;
+  width: 522px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+ 
+.henripayfaisal-text102 {
+  color: var(--dl-color-default-ffffff);
+  width: 137px;
+  height: auto;
+  text-align: center;
+  line-height: 24px;
+}
+ 
+.henripayfaisal-footer2 {
+  gap: 10px;
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.henripayfaisal-text103 {
+  color: var(--dl-color-default-ffffff);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+ 
+.henripayfaisal-footer3 {
+  gap: 10px;
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.henripayfaisal-text104 {
+  color: var(--dl-color-default-ffffff);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+ 
+.henripayfaisal-footer4 {
+  gap: 10px;
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.henripayfaisal-text105 {
+  color: var(--dl-color-default-ffffff);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+ 
+.henripayfaisal-footer5 {
+  gap: 10px;
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.henripayfaisal-text106 {
+  color: var(--dl-color-default-ffffff);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+ 
+.henripayfaisal-section9 {
+  top: 6599px;
+  left: 0px;
+  right: 0px;
+  width: 534px;
+  height: 217px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-text107 {
+  left: 0px;
+  color: var(--dl-color-default-ffffff);
+  right: 0px;
+  width: 534px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 64px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-button1 {
+  gap: 10px;
+  top: 160px;
+  left: 186px;
+  display: flex;
+  padding: 5px;
+  position: absolute;
+  align-items: flex-start;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 50px;
+  flex-direction: column;
+}
+ 
+.henripayfaisal-frame11 {
+  gap: 10px;
+  display: flex;
+  padding: 14px 32px;
+  background: linear-gradient(-60deg, rgba(252, 75, 44, 1) 0%, rgba(255, 182, 14, 1) 100%);
+  align-items: flex-start;
+  border-radius: 50px;
+  background-color: var(--dl-color-default-linear);
+}
+ 
+.henripayfaisal-text108 {
+  color: rgba(30, 30, 44, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-section8 {
+  top: 6142px;
+  left: 0px;
+  right: 0px;
+  width: 1098px;
+  height: 361px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.henripayfaisal-group40 {
+  top: 0px;
+  left: 0px;
+  width: 346px;
+  height: 240px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-text109 {
+  top: 48px;
+  color: var(--dl-color-default-ffffff);
+  width: 346px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 64px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-text110 {
+  color: var(--dl-color-default-ffb60e);
+  width: 346px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 32px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-frame31 {
+  gap: 30px;
+  top: 0px;
+  left: 376px;
+  width: 346px;
+  display: flex;
+  padding: 30px;
+  position: absolute;
+  align-items: flex-start;
+  border-radius: 15px;
+  flex-direction: column;
+  background-color: rgba(41, 41, 55, 1);
+}
+ 
+.henripayfaisal-frame301 {
+  gap: 16px;
+  display: flex;
+  align-items: center;
+}
+ 
+.henripayfaisal-maskgroup10 {
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-ellipse61 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+ 
+.henripayfaisal-image31 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+ 
+.henripayfaisal-frame291 {
+  gap: 4px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.henripayfaisal-text111 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-text112 {
+  color: rgba(255, 255, 255, 1);
+  width: 84px;
+  height: auto;
+  opacity: 0.70;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-text113 {
+  color: rgba(255, 255, 255, 1);
+  width: 286px;
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-text114 {
+  color: rgba(255, 255, 255, 1);
+  width: 286px;
+  height: auto;
+  opacity: 0.70;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-frame32 {
+  gap: 30px;
+  top: 0px;
+  left: 752px;
+  width: 346px;
+  display: flex;
+  padding: 30px;
+  position: absolute;
+  align-items: flex-start;
+  border-radius: 15px;
+  flex-direction: column;
+  background-color: rgba(41, 41, 55, 1);
+}
+ 
+.henripayfaisal-frame302 {
+  gap: 16px;
+  display: flex;
+  align-items: center;
+}
+ 
+.henripayfaisal-maskgroup11 {
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-ellipse62 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+ 
+.henripayfaisal-image32 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+ 
+.henripayfaisal-frame292 {
+  gap: 4px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.henripayfaisal-text115 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-text116 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  opacity: 0.70;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-text117 {
+  color: rgba(255, 255, 255, 1);
+  width: 286px;
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-text118 {
+  color: rgba(255, 255, 255, 1);
+  width: 286px;
+  height: auto;
+  opacity: 0.70;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-section7 {
+  top: 5576px;
+  left: 0px;
+  width: 100%;
+  height: 470.0000915527344px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.henripayfaisal-text119 {
+  left: 570px;
+  color: var(--dl-color-default-ffffff);
+  width: 534px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 64px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-frame4134 {
+  gap: 70px;
+  top: 126px;
+  left: -200px;
+  width: 1688px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+}
+ 
+.henripayfaisal-frame4131 {
+  gap: 40px;
+  width: 175px;
+  height: 219px;
+  display: flex;
+  padding: 30px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+  background-color: rgba(30, 30, 44, 1);
+}
+ 
+.henripayfaisal-maskgroup12 {
+  top: 30px;
+  left: 39.999996185302734px;
+  width: 95.81838989257812px;
+  height: 94.99995422363281px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group37501 {
+  top: 0.8184349536895752px;
+  left: 1.6368699073791504px;
+  width: 94.1815185546875px;
+  height: 94.1815185546875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-ellipse810 {
+  top: 0px;
+  left: 0px;
+  width: 94px;
+  height: 94px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group37491 {
+  top: 0px;
+  left: 0px;
+  width: 94.1815185546875px;
+  height: 94.1815185546875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-ellipse811 {
+  top: 0px;
+  left: 0px;
+  width: 94px;
+  height: 94px;
+  position: absolute;
+}
+ 
+.henripayfaisal-text120 {
+  top: 164.9999542236328px;
+  left: 47.00001525878906px;
+  color: var(--dl-color-default-ffb60e);
+  width: 82px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: 30px;
+}
+ 
+.henripayfaisal-frame10 {
+  top: 130px;
+  left: 161.13720703125px;
+  width: 31px;
+  height: 41px;
+  position: absolute;
+}
+ 
+.henripayfaisal-frame4132 {
+  gap: 40px;
+  width: 175px;
+  height: 219px;
+  display: flex;
+  padding: 30px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+  background-color: rgba(30, 30, 44, 1);
+}
+ 
+.henripayfaisal-maskgroup13 {
+  top: 30px;
+  left: 39.999996185302734px;
+  width: 95.81838989257812px;
+  height: 94.99995422363281px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group37502 {
+  top: 0.8184349536895752px;
+  left: 1.6368699073791504px;
+  width: 94.1815185546875px;
+  height: 94.1815185546875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-ellipse812 {
+  top: 0px;
+  left: 0px;
+  width: 94px;
+  height: 94px;
+  position: absolute;
+}
+ 
+.henripayfaisal-frame12 {
+  top: 20.26665496826172px;
+  left: 23.24736976623535px;
+  width: 48px;
+  height: 54px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group37492 {
+  top: 0px;
+  left: 0px;
+  width: 94.1815185546875px;
+  height: 94.1815185546875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-ellipse813 {
+  top: 0px;
+  left: 0px;
+  width: 94px;
+  height: 94px;
+  position: absolute;
+}
+ 
+.henripayfaisal-frame13 {
+  top: 20.26665687561035px;
+  left: 23.24736976623535px;
+  width: 48px;
+  height: 54px;
+  position: absolute;
+}
+ 
+.henripayfaisal-text121 {
+  top: 164.9999542236328px;
+  left: 47.00001525878906px;
+  color: var(--dl-color-default-ffb60e);
+  width: 82px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: 30px;
+}
+ 
+.henripayfaisal-frame14 {
+  top: 130px;
+  left: 161.13720703125px;
+  width: 31px;
+  height: 41px;
+  position: absolute;
+}
+ 
+.henripayfaisal-frame18 {
+  top: 67.95703125px;
+  left: -17.479736328125px;
+  width: 36px;
+  height: 36px;
+  position: absolute;
+}
+ 
+.henripayfaisal-frame4133 {
+  gap: 40px;
+  width: 175px;
+  height: 219px;
+  display: flex;
+  padding: 30px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+  background-color: rgba(30, 30, 44, 1);
+}
+ 
+.henripayfaisal-maskgroup14 {
+  top: 30px;
+  left: 39.999996185302734px;
+  width: 95.81838989257812px;
+  height: 94.99995422363281px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group37503 {
+  top: 0.8184349536895752px;
+  left: 1.6368699073791504px;
+  width: 94.1815185546875px;
+  height: 94.1815185546875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-ellipse814 {
+  top: 0px;
+  left: 0px;
+  width: 94px;
+  height: 94px;
+  position: absolute;
+}
+ 
+.henripayfaisal-frame19 {
+  top: 20.26665496826172px;
+  left: 23.24736976623535px;
+  width: 48px;
+  height: 54px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group37493 {
+  top: 0px;
+  left: 0px;
+  width: 94.1815185546875px;
+  height: 94.1815185546875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-ellipse815 {
+  top: 0px;
+  left: 0px;
+  width: 94px;
+  height: 94px;
+  position: absolute;
+}
+ 
+.henripayfaisal-frame20 {
+  top: 20.26665687561035px;
+  left: 23.24736976623535px;
+  width: 48px;
+  height: 54px;
+  position: absolute;
+}
+ 
+.henripayfaisal-text122 {
+  top: 165px;
+  left: 20px;
+  color: var(--dl-color-default-ffb60e);
+  width: 135px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: 30px;
+}
+ 
+.henripayfaisal-frame21 {
+  top: 130px;
+  left: 161.13720703125px;
+  width: 31px;
+  height: 41px;
+  position: absolute;
+}
+ 
+.henripayfaisal-frame22 {
+  top: 67.95703125px;
+  left: -17.479736328125px;
+  width: 36px;
+  height: 36px;
+  position: absolute;
+}
+ 
+.henripayfaisal-frame4127 {
+  gap: 40px;
+  width: 218px;
+  height: 282px;
+  display: flex;
+  padding: 30px;
+  position: relative;
+  align-items: center;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+  background-color: rgba(30, 30, 44, 1);
+}
+ 
+.henripayfaisal-maskgroup15 {
+  top: 30px;
+  left: 30px;
+  width: 158px;
+  height: 158px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-ellipse816 {
+  top: 0px;
+  left: 0px;
+  width: 158px;
+  height: 158px;
+  position: absolute;
+}
+ 
+.henripayfaisal-image12 {
+  top: -1px;
+  left: -2px;
+  width: 161px;
+  height: 161px;
+  position: absolute;
+}
+ 
+.henripayfaisal-text123 {
+  top: 228px;
+  left: 68px;
+  color: var(--dl-color-default-ffb60e);
+  width: 82px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: 30px;
+}
+ 
+.henripayfaisal-frame23 {
+  top: 67.95703125px;
+  left: -17.479736328125px;
+  width: 36px;
+  height: 36px;
+  position: absolute;
+}
+ 
+.henripayfaisal-frame28 {
+  top: 181px;
+  left: 207.13720703125px;
+  width: 31px;
+  height: 41px;
+  position: absolute;
+}
+ 
+.henripayfaisal-frame4128 {
+  gap: 40px;
+  width: 175px;
+  height: 219px;
+  display: flex;
+  padding: 30px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+  background-color: rgba(30, 30, 44, 1);
+}
+ 
+.henripayfaisal-maskgroup16 {
+  top: 30px;
+  left: 39.999996185302734px;
+  width: 95.81838989257812px;
+  height: 94.99995422363281px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group37504 {
+  top: 0.8184349536895752px;
+  left: 1.6368699073791504px;
+  width: 94.1815185546875px;
+  height: 94.1815185546875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-ellipse817 {
+  top: 0px;
+  left: 0px;
+  width: 94px;
+  height: 94px;
+  position: absolute;
+}
+ 
+.henripayfaisal-frame33 {
+  top: 20.26665496826172px;
+  left: 23.24736976623535px;
+  width: 48px;
+  height: 54px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group37494 {
+  top: 0px;
+  left: 0px;
+  width: 94.1815185546875px;
+  height: 94.1815185546875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-ellipse818 {
+  top: 0px;
+  left: 0px;
+  width: 94px;
+  height: 94px;
+  position: absolute;
+}
+ 
+.henripayfaisal-frame34 {
+  top: 20.26665687561035px;
+  left: 23.24736976623535px;
+  width: 48px;
+  height: 54px;
+  position: absolute;
+}
+ 
+.henripayfaisal-text124 {
+  top: 164.9999542236328px;
+  left: 47.00001525878906px;
+  color: var(--dl-color-default-ffb60e);
+  width: 82px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: 30px;
+}
+ 
+.henripayfaisal-frame35 {
+  top: 130px;
+  left: 161.13720703125px;
+  width: 31px;
+  height: 41px;
+  position: absolute;
+}
+ 
+.henripayfaisal-frame36 {
+  top: 67.95703125px;
+  left: -17.479736328125px;
+  width: 36px;
+  height: 36px;
+  position: absolute;
+}
+ 
+.henripayfaisal-frame4129 {
+  gap: 40px;
+  width: 175px;
+  height: 219px;
+  display: flex;
+  padding: 30px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+  background-color: rgba(30, 30, 44, 1);
+}
+ 
+.henripayfaisal-maskgroup17 {
+  top: 30px;
+  left: 39.999996185302734px;
+  width: 95.81838989257812px;
+  height: 94.99995422363281px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group37505 {
+  top: 0.8184349536895752px;
+  left: 1.6368699073791504px;
+  width: 94.1815185546875px;
+  height: 94.1815185546875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-ellipse819 {
+  top: 0px;
+  left: 0px;
+  width: 94px;
+  height: 94px;
+  position: absolute;
+}
+ 
+.henripayfaisal-frame37 {
+  top: 20.26665496826172px;
+  left: 23.24736976623535px;
+  width: 48px;
+  height: 54px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group37495 {
+  top: 0px;
+  left: 0px;
+  width: 94.1815185546875px;
+  height: 94.1815185546875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-ellipse820 {
+  top: 0px;
+  left: 0px;
+  width: 94px;
+  height: 94px;
+  position: absolute;
+}
+ 
+.henripayfaisal-frame38 {
+  top: 20.26665687561035px;
+  left: 23.24736976623535px;
+  width: 48px;
+  height: 54px;
+  position: absolute;
+}
+ 
+.henripayfaisal-text125 {
+  top: 164.9999542236328px;
+  left: 47.00001525878906px;
+  color: var(--dl-color-default-ffb60e);
+  width: 82px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: 30px;
+}
+ 
+.henripayfaisal-frame39 {
+  top: 130px;
+  left: 161.13720703125px;
+  width: 31px;
+  height: 41px;
+  position: absolute;
+}
+ 
+.henripayfaisal-frame40 {
+  top: 67.95703125px;
+  left: -17.479736328125px;
+  width: 36px;
+  height: 36px;
+  position: absolute;
+}
+ 
+.henripayfaisal-frame4130 {
+  gap: 40px;
+  width: 175px;
+  height: 219px;
+  display: flex;
+  padding: 30px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+  background-color: rgba(30, 30, 44, 1);
+}
+ 
+.henripayfaisal-maskgroup18 {
+  top: 30px;
+  left: 39.999996185302734px;
+  width: 95.81838989257812px;
+  height: 94.99995422363281px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group37506 {
+  top: 0.8184349536895752px;
+  left: 1.6368699073791504px;
+  width: 94.1815185546875px;
+  height: 94.1815185546875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-ellipse821 {
+  top: 0px;
+  left: 0px;
+  width: 94px;
+  height: 94px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group37496 {
+  top: 0px;
+  left: 0px;
+  width: 94.1815185546875px;
+  height: 94.1815185546875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-ellipse822 {
+  top: 0px;
+  left: 0px;
+  width: 94px;
+  height: 94px;
+  position: absolute;
+}
+ 
+.henripayfaisal-text126 {
+  top: 164.9999542236328px;
+  left: 47.00001525878906px;
+  color: var(--dl-color-default-ffb60e);
+  width: 82px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: 30px;
+}
+ 
+.henripayfaisal-frame41 {
+  top: 67.95703125px;
+  left: -17.479736328125px;
+  width: 36px;
+  height: 36px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group29 {
+  top: 470px;
+  left: 288px;
+  width: 1098px;
+  height: 0.00009599020995665342px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector12 {
+  top: 0px;
+  left: 0px;
+  width: 1098px;
+  height: 1px;
+  opacity: 0.50;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector13 {
+  top: 0px;
+  left: 0px;
+  width: 220px;
+  height: 1px;
+  position: absolute;
+}
+ 
+.henripayfaisal-section6 {
+  top: 5010px;
+  left: 0px;
+  right: 0px;
+  width: 1098px;
+  height: 470px;
+  margin: auto;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 20px;
+}
+ 
+.henripayfaisal-rectangle81 {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 470px;
+  position: absolute;
+}
+ 
+.henripayfaisal-ellipse121 {
+  top: -96px;
+  left: 822px;
+  width: 346px;
+  height: 346px;
+  opacity: 0.50;
+  position: absolute;
+}
+ 
+.henripayfaisal-ellipse111 {
+  top: 335px;
+  left: -160px;
+  width: 350px;
+  height: 350px;
+  position: absolute;
+}
+ 
+.henripayfaisal-frame4077 {
+  gap: 50px;
+  top: 44px;
+  left: 47px;
+  width: 1003px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+}
+ 
+.henripayfaisal-frame42 {
+  width: 430px;
+  height: 383px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.henripayfaisal-group100 {
+  top: 57.7078857421875px;
+  left: 3.0614635944366455px;
+  width: 426.8997497558594px;
+  height: 308.81982421875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-a {
+  top: 0px;
+  left: 0px;
+  width: 426.8997497558594px;
+  height: 308.81982421875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group101 {
+  top: 0px;
+  left: 0px;
+  width: 426.8997497558594px;
+  height: 302.1059875488281px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group102 {
+  top: 0px;
+  left: 0px;
+  width: 426.8997497558594px;
+  height: 302.1059875488281px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group103 {
+  top: 52.75785446166992px;
+  left: 0px;
+  width: 426.8997497558594px;
+  height: 249.34814453125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector100 {
+  top: 0px;
+  left: 0px;
+  width: 427px;
+  height: 249px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group104 {
+  top: 13.26343059539795px;
+  left: 30.80839729309082px;
+  width: 141.7186279296875px;
+  height: 151.83383178710938px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group105 {
+  top: 0px;
+  left: 0px;
+  width: 141.7186279296875px;
+  height: 151.83383178710938px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group106 {
+  top: 69.00402069091797px;
+  left: 0px;
+  width: 141.7186279296875px;
+  height: 82.82980346679688px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector101 {
+  top: 0px;
+  left: 0px;
+  width: 142px;
+  height: 83px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group107 {
+  top: 59.98719787597656px;
+  left: 21.895275115966797px;
+  width: 92.3089370727539px;
+  height: 73.89105224609375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group108 {
+  top: 0px;
+  left: 0px;
+  width: 92.3089370727539px;
+  height: 73.89105224609375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector102 {
+  top: 26.894309997558594px;
+  left: 46.27073669433594px;
+  width: 46px;
+  height: 47px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector103 {
+  top: 26.894309997558594px;
+  left: 0.000005663039246428525px;
+  width: 46px;
+  height: 47px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector104 {
+  top: -8.526512829121202e-14px;
+  left: 0.0768573209643364px;
+  width: 92px;
+  height: 54px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group109 {
+  top: 33.6003303527832px;
+  left: 35.7299919128418px;
+  width: 70.4524154663086px;
+  height: 69.1679458618164px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group110 {
+  top: 0px;
+  left: 0px;
+  width: 70.4524154663086px;
+  height: 69.1679458618164px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group111 {
+  top: 21.897985458374023px;
+  left: -6.853815079921333e-7px;
+  width: 70.4524154663086px;
+  height: 47.269954681396484px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector105 {
+  top: 20.570817947387695px;
+  left: 35.34246826171875px;
+  width: 35px;
+  height: 27px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector106 {
+  top: 20.570817947387695px;
+  left: -8.526512829121202e-14px;
+  width: 35px;
+  height: 27px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector107 {
+  top: 0px;
+  left: 0px;
+  width: 70px;
+  height: 41px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group112 {
+  top: 12.764059066772461px;
+  left: 2.6351845264434814px;
+  width: 65.37580871582031px;
+  height: 44.22533416748047px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector108 {
+  top: 19.04850959777832px;
+  left: 32.7847900390625px;
+  width: 33px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector109 {
+  top: 19.04850959777832px;
+  left: -1.5740749859105563e-7px;
+  width: 33px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector110 {
+  top: 2.827529215210234e-7px;
+  left: 0.03832094743847847px;
+  width: 65px;
+  height: 38px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group113 {
+  top: 0.0000010791408158183913px;
+  left: 2.6351845264434814px;
+  width: 65.37580871582031px;
+  height: 44.264366149902344px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector111 {
+  top: 19.048507690429688px;
+  left: 32.7847900390625px;
+  width: 33px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector112 {
+  top: 19.08754539489746px;
+  left: -1.5740749859105563e-7px;
+  width: 33px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector113 {
+  top: 1.9895196601282805e-13px;
+  left: 0.03832094743847847px;
+  width: 65px;
+  height: 38px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector114 {
+  top: 5.152466297149658px;
+  left: 11.470804214477539px;
+  width: 48px;
+  height: 28px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group114 {
+  top: 0px;
+  left: 44.76456832885742px;
+  width: 59.245418548583984px;
+  height: 64.20772552490234px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector115 {
+  top: 49.97139358520508px;
+  left: 8.381159782409668px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector116 {
+  top: -5.6843418860808015e-14px;
+  left: 37.2439079284668px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector117 {
+  top: 36.530155181884766px;
+  left: 53.82459259033203px;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector118 {
+  top: 42.622371673583984px;
+  left: -0.000001147150328506541px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector119 {
+  top: 63.02696228027344px;
+  left: 26.651824951171875px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector120 {
+  top: 49.12762451171875px;
+  left: 39.708213806152344px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector121 {
+  top: 25.239900588989258px;
+  left: 14.8687162399292px;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector122 {
+  top: 57.93916702270508px;
+  left: 19.508031845092773px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector123 {
+  top: 37.96394729614258px;
+  left: 38.855655670166016px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector124 {
+  top: 2.833498239517212px;
+  left: 0.6454904675483704px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector125 {
+  top: 53.244327545166016px;
+  left: 15.505796432495117px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector126 {
+  top: 59.02132797241211px;
+  left: 34.688385009765625px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group115 {
+  top: 112.28445434570312px;
+  left: 100.1369857788086px;
+  width: 203.83924865722656px;
+  height: 127.17223358154297px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group116 {
+  top: 0px;
+  left: 0px;
+  width: 203.83924865722656px;
+  height: 127.17223358154297px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector127 {
+  top: 50.35365676879883px;
+  left: -6.900686457811389e-7px;
+  width: 117px;
+  height: 77px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector128 {
+  top: 69.20698547363281px;
+  left: 117.26569366455078px;
+  width: 87px;
+  height: 58px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector129 {
+  top: 0px;
+  left: 0px;
+  width: 204px;
+  height: 120px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group117 {
+  top: 0px;
+  left: 243.36697387695312px;
+  width: 141.71865844726562px;
+  height: 151.82574462890625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group118 {
+  top: 0px;
+  left: 0px;
+  width: 141.71865844726562px;
+  height: 151.82574462890625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group119 {
+  top: 68.99593353271484px;
+  left: 0px;
+  width: 141.71865844726562px;
+  height: 82.82980346679688px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector130 {
+  top: 0px;
+  left: 0px;
+  width: 142px;
+  height: 83px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group120 {
+  top: 59.9791259765625px;
+  left: 21.895267486572266px;
+  width: 92.3089370727539px;
+  height: 73.89105987548828px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group121 {
+  top: 0px;
+  left: 0px;
+  width: 92.3089370727539px;
+  height: 73.89105987548828px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector131 {
+  top: 26.933345794677734px;
+  left: 46.27073669433594px;
+  width: 46px;
+  height: 47px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector132 {
+  top: 26.894317626953125px;
+  left: 0.000001967292973859003px;
+  width: 46px;
+  height: 47px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector133 {
+  top: -2.842170943040401e-14px;
+  left: 0.07687025517225266px;
+  width: 92px;
+  height: 54px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group122 {
+  top: 33.63128662109375px;
+  left: 35.729984283447266px;
+  width: 70.4524154663086px;
+  height: 69.12892150878906px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group123 {
+  top: 0px;
+  left: 0px;
+  width: 70.4524154663086px;
+  height: 69.12892150878906px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group124 {
+  top: 21.897981643676758px;
+  left: 1.4190175079420442e-7px;
+  width: 70.4524154663086px;
+  height: 47.23093795776367px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector134 {
+  top: 20.53179931640625px;
+  left: 35.34247589111328px;
+  width: 35px;
+  height: 27px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector135 {
+  top: 20.53179931640625px;
+  left: 0px;
+  width: 35px;
+  height: 27px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector136 {
+  top: 0px;
+  left: 0px;
+  width: 70px;
+  height: 41px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group125 {
+  top: 12.725030899047852px;
+  left: 2.6351852416992188px;
+  width: 65.37582397460938px;
+  height: 44.264366149902344px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector137 {
+  top: 19.048513412475586px;
+  left: 32.784786224365234px;
+  width: 33px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector138 {
+  top: 19.087541580200195px;
+  left: -4.5380090796243167e-8px;
+  width: 33px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector139 {
+  top: -0.0000010726846539910184px;
+  left: 0.03832836449146271px;
+  width: 65px;
+  height: 38px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group126 {
+  top: -8.442021908194874e-7px;
+  left: 2.6351852416992188px;
+  width: 65.37582397460938px;
+  height: 44.22533416748047px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector140 {
+  top: 19.04851722717285px;
+  left: 32.784786224365234px;
+  width: 33px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector141 {
+  top: 19.04851722717285px;
+  left: -4.5380090796243167e-8px;
+  width: 33px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector142 {
+  top: 0px;
+  left: 0.03832836449146271px;
+  width: 65px;
+  height: 38px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector143 {
+  top: 5.113429069519043px;
+  left: 11.470796585083008px;
+  width: 48px;
+  height: 28px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group127 {
+  top: 0px;
+  left: 44.76457595825195px;
+  width: 59.284183502197266px;
+  height: 64.23869323730469px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector144 {
+  top: 49.96331024169922px;
+  left: 8.411870956420898px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector145 {
+  top: -3.552713678800501e-14px;
+  left: 37.213172912597656px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector146 {
+  top: 36.56111526489258px;
+  left: 53.863338470458984px;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector147 {
+  top: 42.65333557128906px;
+  left: -7.956727472446801e-7px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector148 {
+  top: 63.057926177978516px;
+  left: 26.65182876586914px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector149 {
+  top: 49.15857696533203px;
+  left: 39.708213806152344px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector150 {
+  top: 25.231828689575195px;
+  left: 14.868695259094238px;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector151 {
+  top: 57.97012710571289px;
+  left: 19.508007049560547px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector152 {
+  top: 37.994903564453125px;
+  left: 38.85565185546875px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector153 {
+  top: 2.813556671142578px;
+  left: 0.6454834342002869px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector154 {
+  top: 53.27528381347656px;
+  left: 15.50581169128418px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector155 {
+  top: 59.05229568481445px;
+  left: 34.68838882446289px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group128 {
+  top: 40.764225006103516px;
+  left: 113.4908218383789px;
+  width: 175.72061157226562px;
+  height: 182.79591369628906px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group129 {
+  top: 0px;
+  left: 0px;
+  width: 175.72061157226562px;
+  height: 182.79591369628906px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group130 {
+  top: 0px;
+  left: 0px;
+  width: 175.72061157226562px;
+  height: 182.79591369628906px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector156 {
+  top: 84.58682250976562px;
+  left: 0.3839971125125885px;
+  width: 172px;
+  height: 98px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group131 {
+  top: 0px;
+  left: 0px;
+  width: 175.72061157226562px;
+  height: 182.79591369628906px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group132 {
+  top: 0px;
+  left: 0px;
+  width: 175.72061157226562px;
+  height: 182.79591369628906px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group133 {
+  top: 0.000007807069778209552px;
+  left: 65.5854263305664px;
+  width: 110.13518524169922px;
+  height: 141.98580932617188px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector157 {
+  top: -5.115907697472721e-13px;
+  left: 0.8138014674186707px;
+  width: 109px;
+  height: 142px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector158 {
+  top: 0.39033982157707214px;
+  left: -0.0000017865734207589412px;
+  width: 109px;
+  height: 142px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector159 {
+  top: 117.8924331665039px;
+  left: -0.00000566385733691277px;
+  width: 173px;
+  height: 65px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector160 {
+  top: 81.58121490478516px;
+  left: 0.3839971125125885px;
+  width: 172px;
+  height: 100px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector161 {
+  top: 127.57282257080078px;
+  left: 41.75251007080078px;
+  width: 54px;
+  height: 31px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector162 {
+  top: 6.0605010986328125px;
+  left: 70.19698333740234px;
+  width: 100px;
+  height: 130px;
+  opacity: 0.44;
+  position: absolute;
+}
+ 
+.henripayfaisal-group134 {
+  top: 85.62123107910156px;
+  left: 30.66924285888672px;
+  width: 135.198486328125px;
+  height: 79.49240112304688px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector163 {
+  top: 0px;
+  left: 0px;
+  width: 135px;
+  height: 79px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector164 {
+  top: 0.7318601608276367px;
+  left: 1.3950867652893066px;
+  width: 132px;
+  height: 78px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector165 {
+  top: 121.40547180175781px;
+  left: 7.340107440948486px;
+  width: 142px;
+  height: 12px;
+  opacity: 0.70;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector166 {
+  top: 127.57282257080078px;
+  left: 41.75251007080078px;
+  width: 54px;
+  height: 18px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector167 {
+  top: 0.36155739426612854px;
+  left: 66.05045318603516px;
+  width: 89px;
+  height: 81px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group135 {
+  top: 136.30615234375px;
+  left: 253.52017211914062px;
+  width: 141.7186279296875px;
+  height: 151.86477661132812px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group136 {
+  top: 0px;
+  left: 0px;
+  width: 141.7186279296875px;
+  height: 151.86477661132812px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group137 {
+  top: 69.03496551513672px;
+  left: 0px;
+  width: 141.7186279296875px;
+  height: 82.82980346679688px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector168 {
+  top: 0px;
+  left: 0px;
+  width: 142px;
+  height: 83px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group138 {
+  top: 60.01816940307617px;
+  left: 21.934043884277344px;
+  width: 92.27017211914062px;
+  height: 73.89105224609375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group139 {
+  top: 0px;
+  left: 0px;
+  width: 92.27017211914062px;
+  height: 73.89105224609375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector169 {
+  top: 26.894309997558594px;
+  left: 46.27070999145508px;
+  width: 46px;
+  height: 47px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector170 {
+  top: 26.894309997558594px;
+  left: 0.0000014914874100213638px;
+  width: 46px;
+  height: 47px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector171 {
+  top: 1.9895196601282805e-13px;
+  left: 0.03830033913254738px;
+  width: 92px;
+  height: 54px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group140 {
+  top: 33.631282806396484px;
+  left: 35.73000717163086px;
+  width: 70.49118041992188px;
+  height: 69.16796112060547px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group141 {
+  top: 0px;
+  left: 0px;
+  width: 70.49118041992188px;
+  height: 69.16796112060547px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group142 {
+  top: 21.897987365722656px;
+  left: -0.0000079447299867752px;
+  width: 70.49118041992188px;
+  height: 47.269981384277344px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector172 {
+  top: 20.570819854736328px;
+  left: 35.34247589111328px;
+  width: 35px;
+  height: 27px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector173 {
+  top: 20.570819854736328px;
+  left: 5.6843418860808015e-14px;
+  width: 35px;
+  height: 27px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector174 {
+  top: -3.552106875304162e-7px;
+  left: 0.03832831606268883px;
+  width: 70px;
+  height: 41px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group143 {
+  top: 12.725044250488281px;
+  left: 2.673938035964966px;
+  width: 65.3370590209961px;
+  height: 44.26435470581055px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector175 {
+  top: 19.087541580200195px;
+  left: 32.74602508544922px;
+  width: 33px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector176 {
+  top: 19.087541580200195px;
+  left: 5.619006060442189e-8px;
+  width: 33px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector177 {
+  top: 0px;
+  left: 0px;
+  width: 65px;
+  height: 38px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group144 {
+  top: 0.0000044090124902140815px;
+  left: 2.673938035964966px;
+  width: 65.3370590209961px;
+  height: 44.264381408691406px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector178 {
+  top: 19.04851722717285px;
+  left: 32.74602508544922px;
+  width: 33px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector179 {
+  top: 19.08754539489746px;
+  left: 5.619006060442189e-8px;
+  width: 33px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector180 {
+  top: 0px;
+  left: 0px;
+  width: 65px;
+  height: 38px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector181 {
+  top: 5.152469158172607px;
+  left: 11.470789909362793px;
+  width: 48px;
+  height: 28px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group145 {
+  top: 0px;
+  left: 44.76456069946289px;
+  width: 59.284183502197266px;
+  height: 64.23868560791016px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector182 {
+  top: 50.00234603881836px;
+  left: 8.450662612915039px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector183 {
+  top: 5.6843418860808015e-14px;
+  left: 37.213172912597656px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector184 {
+  top: 36.561119079589844px;
+  left: 53.86336898803711px;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector185 {
+  top: 42.65333557128906px;
+  left: -3.012987690453883e-7px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector186 {
+  top: 63.057926177978516px;
+  left: 26.69058609008789px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector187 {
+  top: 49.158592224121094px;
+  left: 39.70821762084961px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector188 {
+  top: 25.2708740234375px;
+  left: 14.90748405456543px;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector189 {
+  top: 57.97013854980469px;
+  left: 19.508039474487305px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector190 {
+  top: 37.99491500854492px;
+  left: 38.894412994384766px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector191 {
+  top: 2.852595090866089px;
+  left: 0.6455134153366089px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector192 {
+  top: 53.2752799987793px;
+  left: 15.544572830200195px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector193 {
+  top: 59.052303314208984px;
+  left: 34.688419342041016px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector194 {
+  top: 86.28793334960938px;
+  left: 239.3367156982422px;
+  width: 29px;
+  height: 84px;
+  opacity: 0.31;
+  position: absolute;
+}
+ 
+.henripayfaisal-group146 {
+  top: 60.223087310791016px;
+  left: 185.66421508789062px;
+  width: 79.404296875px;
+  height: 117.04029083251953px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector195 {
+  top: 81.33675384521484px;
+  left: -0.000006069474693504162px;
+  width: 58px;
+  height: 35px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector196 {
+  top: -0.0000014221643596101785px;
+  left: 3.138953685760498px;
+  width: 76px;
+  height: 116px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector197 {
+  top: 80.59510803222656px;
+  left: 0.0387401282787323px;
+  width: 57px;
+  height: 33px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector198 {
+  top: 32.62437438964844px;
+  left: 55.88138198852539px;
+  width: 24px;
+  height: 84px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group147 {
+  top: 82.8919906616211px;
+  left: 199.150146484375px;
+  width: 49.2934455871582px;
+  height: 70.57316589355469px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-maskgroup19 {
+  top: 0px;
+  left: 0px;
+  width: 49.2934455871582px;
+  height: 70.57316589355469px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group148 {
+  top: -0.000011854615877382457px;
+  left: 0.03874795138835907px;
+  width: 49.25404739379883px;
+  height: 69.28677368164062px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group149 {
+  top: 0px;
+  left: 0px;
+  width: 49.25404739379883px;
+  height: 69.28677368164062px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector199 {
+  top: 0px;
+  left: 0.03822694718837738px;
+  width: 49px;
+  height: 31px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector200 {
+  top: 24.630361557006836px;
+  left: 0px;
+  width: 20px;
+  height: 14px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector201 {
+  top: 8.314217567443848px;
+  left: 0.03876098245382309px;
+  width: 44px;
+  height: 28px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector202 {
+  top: 16.238080978393555px;
+  left: 0px;
+  width: 44px;
+  height: 28px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector203 {
+  top: 57.41080856323242px;
+  left: 37.28390884399414px;
+  width: 11px;
+  height: 12px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group150 {
+  top: 208.7259063720703px;
+  left: 74.71410369873047px;
+  width: 84.1401596069336px;
+  height: 57.9547119140625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group151 {
+  top: 0px;
+  left: 0px;
+  width: 84.1401596069336px;
+  height: 57.9547119140625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group152 {
+  top: 0px;
+  left: 0px;
+  width: 84.1401596069336px;
+  height: 57.9547119140625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector204 {
+  top: 23.97793960571289px;
+  left: 9.140055681200465e-7px;
+  width: 84px;
+  height: 34px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector205 {
+  top: 0.03855157643556595px;
+  left: 0.07049181312322617px;
+  width: 84px;
+  height: 49px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector206 {
+  top: 25.070880889892578px;
+  left: 9.140055681200465e-7px;
+  width: 84px;
+  height: 33px;
+  opacity: 0.54;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector207 {
+  top: -7.958078640513122e-13px;
+  left: 0.07049181312322617px;
+  width: 84px;
+  height: 49px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector208 {
+  top: 12.864171981811523px;
+  left: 21.39260482788086px;
+  width: 44px;
+  height: 18px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group153 {
+  top: 11.304631233215332px;
+  left: 21.68073272705078px;
+  width: 44.31681823730469px;
+  height: 18.099010467529297px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group154 {
+  top: 0px;
+  left: 0px;
+  width: 44.31681823730469px;
+  height: 18.099010467529297px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group155 {
+  top: 1.860919713973999px;
+  left: 1.6495064496994019px;
+  width: 0px;
+  height: 5.933159828186035px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-maskgroup20 {
+  top: 0px;
+  left: 0px;
+  width: 0px;
+  height: 5.933159828186035px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group156 {
+  top: 0px;
+  left: 0px;
+  width: 0px;
+  height: 5.933159828186035px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group157 {
+  top: 0px;
+  left: 0px;
+  width: 0px;
+  height: 5.933159828186035px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group158 {
+  top: 2.0170586109161377px;
+  left: 1.6495064496994019px;
+  width: 0.07750718295574188px;
+  height: 6.9480180740356445px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector209 {
+  top: 0px;
+  left: 0px;
+  width: 0px;
+  height: 7px;
+  position: absolute;
+}
+ 
+.henripayfaisal-maskgroup21 {
+  top: 0px;
+  left: 0px;
+  width: 0.07750718295574188px;
+  height: 6.9480180740356445px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group159 {
+  top: 0px;
+  left: 0px;
+  width: 0.07750718295574188px;
+  height: 6.9480180740356445px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group160 {
+  top: 0px;
+  left: 0px;
+  width: 0.07750718295574188px;
+  height: 6.9480180740356445px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector210 {
+  top: 0px;
+  left: 0px;
+  width: 0px;
+  height: 7px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group161 {
+  top: 3.2661402225494385px;
+  left: 8.237468719482422px;
+  width: 0.465028315782547px;
+  height: 8.899709701538086px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-maskgroup22 {
+  top: 0px;
+  left: 0px;
+  width: 0.465028315782547px;
+  height: 8.899709701538086px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group162 {
+  top: 1.8088712749886326e-9px;
+  left: 0.038746606558561325px;
+  width: 0.42628213763237px;
+  height: 8.938751220703125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group163 {
+  top: 0px;
+  left: 0px;
+  width: 0.42628213763237px;
+  height: 8.938751220703125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector211 {
+  top: 0.27323564887046814px;
+  left: 0px;
+  width: 0px;
+  height: 9px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector212 {
+  top: 9.199299812316895px;
+  left: 0.17689962685108185px;
+  width: 44px;
+  height: 9px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector213 {
+  top: 0px;
+  left: 0px;
+  width: 44px;
+  height: 12px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group164 {
+  top: 1.9780462980270386px;
+  left: 0.01282326690852642px;
+  width: 44.23261642456055px;
+  height: 10.379679679870605px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector214 {
+  top: 2.0297462940216064px;
+  left: 8.263392448425293px;
+  width: 0px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector215 {
+  top: 7.14316987991333px;
+  left: -3.5839775591739453e-11px;
+  width: 44px;
+  height: 3px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector216 {
+  top: 3.604270659707254e-9px;
+  left: 1.6754367351531982px;
+  width: 0px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group165 {
+  top: 154.278564453125px;
+  left: 13.640952110290527px;
+  width: 56.42394256591797px;
+  height: 63.63146209716797px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group166 {
+  top: 0px;
+  left: 0px;
+  width: 56.42394256591797px;
+  height: 63.63146209716797px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group167 {
+  top: 26.816255569458008px;
+  left: 2.3251616954803467px;
+  width: 53.43998336791992px;
+  height: 36.81520080566406px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector217 {
+  top: 15.424651145935059px;
+  left: -2.0991429039440845e-7px;
+  width: 53px;
+  height: 21px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector218 {
+  top: -0.000002232231508969562px;
+  left: 0.04310275614261627px;
+  width: 53px;
+  height: 31px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector219 {
+  top: 15.307555198669434px;
+  left: 0.07750511914491653px;
+  width: 53px;
+  height: 21px;
+  opacity: 0.34;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector220 {
+  top: -0.000002232231508969562px;
+  left: 0.04310275614261627px;
+  width: 53px;
+  height: 31px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector221 {
+  top: 10.155089378356934px;
+  left: 12.555874824523926px;
+  width: 30px;
+  height: 11px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector222 {
+  top: 8.593745231628418px;
+  left: 12.168350219726562px;
+  width: 30px;
+  height: 11px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group168 {
+  top: 18.814308166503906px;
+  left: 2.673936367034912px;
+  width: 53.47872543334961px;
+  height: 36.81520080566406px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector223 {
+  top: 15.307567596435547px;
+  left: 4.582122059559879e-8px;
+  width: 53px;
+  height: 22px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector224 {
+  top: 1.3335022686078446e-7px;
+  left: 0.004489448387175798px;
+  width: 53px;
+  height: 31px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector225 {
+  top: 15.190472602844238px;
+  left: 0.11625897139310837px;
+  width: 53px;
+  height: 22px;
+  opacity: 0.34;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector226 {
+  top: 0.03881174325942993px;
+  left: 0.004827246535569429px;
+  width: 53px;
+  height: 31px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector227 {
+  top: 10.194146156311035px;
+  left: 12.517121315002441px;
+  width: 30px;
+  height: 11px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector228 {
+  top: 8.63278579711914px;
+  left: 12.129596710205078px;
+  width: 30px;
+  height: 11px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group169 {
+  top: 10.85141658782959px;
+  left: 2.9839577674865723px;
+  width: 53.43998336791992px;
+  height: 36.81519317626953px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector229 {
+  top: 15.424666404724121px;
+  left: -1.8316121952466347e-8px;
+  width: 53px;
+  height: 21px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector230 {
+  top: -4.2087765450560255e-7px;
+  left: 0.004489320330321789px;
+  width: 53px;
+  height: 31px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector231 {
+  top: 15.346596717834473px;
+  left: 0.11625891178846359px;
+  width: 53px;
+  height: 21px;
+  opacity: 0.34;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector232 {
+  top: -4.2087765450560255e-7px;
+  left: 0.004489320330321789px;
+  width: 53px;
+  height: 31px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector233 {
+  top: 10.155089378356934px;
+  left: 12.517125129699707px;
+  width: 30px;
+  height: 11px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector234 {
+  top: 8.593745231628418px;
+  left: 12.168349266052246px;
+  width: 30px;
+  height: 11px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group170 {
+  top: 0px;
+  left: 0px;
+  width: 53.4012336730957px;
+  height: 36.815223693847656px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector235 {
+  top: 15.424666404724121px;
+  left: -3.846642186999816e-7px;
+  width: 53px;
+  height: 21px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector236 {
+  top: 1.4210854715202004e-13px;
+  left: 0.004489097278565168px;
+  width: 53px;
+  height: 31px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector237 {
+  top: 15.307570457458496px;
+  left: 0.11625854671001434px;
+  width: 53px;
+  height: 21px;
+  opacity: 0.34;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector238 {
+  top: 0.0388120636343956px;
+  left: 0.004827161785215139px;
+  width: 53px;
+  height: 31px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector239 {
+  top: 10.155105590820312px;
+  left: 12.517122268676758px;
+  width: 30px;
+  height: 11px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector240 {
+  top: 8.593744277954102px;
+  left: 12.129595756530762px;
+  width: 30px;
+  height: 11px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group171 {
+  top: 121.76968383789062px;
+  left: 199.66668701171875px;
+  width: 16.612140655517578px;
+  height: 22.65903091430664px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector241 {
+  top: 0.000007187928986240877px;
+  left: 3.474984884262085px;
+  width: 13px;
+  height: 22px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector242 {
+  top: 0.7633248567581177px;
+  left: 0.000008229471859522164px;
+  width: 14px;
+  height: 22px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector243 {
+  top: 0.039049360901117325px;
+  left: 3.4362387657165527px;
+  width: 13px;
+  height: 22px;
+  opacity: 0.34;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector244 {
+  top: 0.8023521900177002px;
+  left: 0.000008229471859522164px;
+  width: 14px;
+  height: 22px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector245 {
+  top: 4.723097324371338px;
+  left: 4.637563228607178px;
+  width: 6px;
+  height: 13px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector246 {
+  top: 5.113444805145264px;
+  left: 4.056282043457031px;
+  width: 6px;
+  height: 13px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group172 {
+  top: 118.64698028564453px;
+  left: 155.35960388183594px;
+  width: 50.53351593017578px;
+  height: 82.27583312988281px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group173 {
+  top: 0px;
+  left: 0px;
+  width: 50.53351593017578px;
+  height: 82.27583312988281px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group174 {
+  top: 0px;
+  left: 0px;
+  width: 50.53351593017578px;
+  height: 82.27583312988281px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector247 {
+  top: 15.320821762084961px;
+  left: 1.8988698720932007px;
+  width: 49px;
+  height: 67px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector248 {
+  top: 20.258556365966797px;
+  left: -0.0000043915410969930235px;
+  width: 42px;
+  height: 62px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector249 {
+  top: 49.60110092163086px;
+  left: 18.05875587463379px;
+  width: 5px;
+  height: 19px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group175 {
+  top: 2.2737367544323206e-13px;
+  left: 10.230708122253418px;
+  width: 31.00216293334961px;
+  height: 38.7215576171875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector250 {
+  top: 0px;
+  left: 0px;
+  width: 31px;
+  height: 39px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group176 {
+  top: 20.178295135498047px;
+  left: 0.8525450825691223px;
+  width: 40.65159225463867px;
+  height: 61.24627685546875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector251 {
+  top: 0px;
+  left: 0px;
+  width: 41px;
+  height: 61px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector252 {
+  top: 36.069461822509766px;
+  left: 20.383930206298828px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector253 {
+  top: 29.902109146118164px;
+  left: 16.97368812561035px;
+  width: 3px;
+  height: 19px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group177 {
+  top: 2.1190578937530518px;
+  left: 9.1068754196167px;
+  width: 28.17352867126465px;
+  height: 36.563472747802734px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector254 {
+  top: 6.37297248840332px;
+  left: 2.8289453983306885px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector255 {
+  top: 6.0390143394470215px;
+  left: 2.9452133178710938px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector256 {
+  top: 0px;
+  left: 0px;
+  width: 28px;
+  height: 37px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector257 {
+  top: 8.526512829121202e-14px;
+  left: 10.230708122253418px;
+  width: 31px;
+  height: 36px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group178 {
+  top: 2.1858999729156494px;
+  left: 7.828044891357422px;
+  width: 29.529556274414062px;
+  height: 36.57469940185547px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector258 {
+  top: 5.035353660583496px;
+  left: 4.03026819229126px;
+  width: 4px;
+  height: 15px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector259 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 37px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector260 {
+  top: 6.2454071044921875px;
+  left: 4.146536827087402px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector261 {
+  top: 6.2454071044921875px;
+  left: 4.146536827087402px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector262 {
+  top: 6.869947910308838px;
+  left: 3.914015293121338px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector263 {
+  top: 6.869947910308838px;
+  left: 3.914015293121338px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector264 {
+  top: 6.362504482269287px;
+  left: 3.914015293121338px;
+  width: 0px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector265 {
+  top: 8.509363174438477px;
+  left: 3.5652401447296143px;
+  width: 0px;
+  height: 12px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group179 {
+  top: 171.537841796875px;
+  left: 207.2882080078125px;
+  width: 42.97676086425781px;
+  height: 40.243892669677734px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector266 {
+  top: 12.568882942199707px;
+  left: 0.0000021536375243158545px;
+  width: 43px;
+  height: 28px;
+  opacity: 0.30;
+  position: absolute;
+}
+ 
+.henripayfaisal-group180 {
+  top: 11.983370780944824px;
+  left: 0.0000021536375243158545px;
+  width: 42.97676086425781px;
+  height: 25.528118133544922px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector267 {
+  top: 0.23420816659927368px;
+  left: -1.4210854715202004e-13px;
+  width: 43px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group181 {
+  top: 0px;
+  left: 0px;
+  width: 42.97676086425781px;
+  height: 25.137784957885742px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector268 {
+  top: 1.1710119247436523px;
+  left: 2.0151424407958984px;
+  width: 39px;
+  height: 23px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector269 {
+  top: 0px;
+  left: 0px;
+  width: 43px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector270 {
+  top: 8.810858726501465px;
+  left: 15.047879219055176px;
+  width: 13px;
+  height: 8px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group182 {
+  top: 6.301527976989746px;
+  left: 10.744893074035645px;
+  width: 21.448217391967773px;
+  height: 12.495720863342285px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector271 {
+  top: 0px;
+  left: 0px;
+  width: 4px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector272 {
+  top: 10.070737838745117px;
+  left: 17.244956970214844px;
+  width: 4px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector273 {
+  top: 10.617193222045898px;
+  left: 18.33002471923828px;
+  width: 6px;
+  height: 4px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group183 {
+  top: 11.124637603759766px;
+  left: 0.0000021536375243158545px;
+  width: 42.97676086425781px;
+  height: 25.52813148498535px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector274 {
+  top: 0.27323436737060547px;
+  left: -1.4210854715202004e-13px;
+  width: 43px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group184 {
+  top: 0px;
+  left: 0px;
+  width: 42.97676086425781px;
+  height: 25.13776969909668px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector275 {
+  top: 1.1710107326507568px;
+  left: 2.0151424407958984px;
+  width: 39px;
+  height: 23px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector276 {
+  top: 0px;
+  left: 0px;
+  width: 43px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector277 {
+  top: 8.810873031616211px;
+  left: 15.047879219055176px;
+  width: 13px;
+  height: 8px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group185 {
+  top: 6.301513195037842px;
+  left: 10.744893074035645px;
+  width: 21.448217391967773px;
+  height: 12.495720863342285px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector278 {
+  top: 0px;
+  left: 0px;
+  width: 4px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector279 {
+  top: 10.0707368850708px;
+  left: 17.244956970214844px;
+  width: 4px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector280 {
+  top: 10.617206573486328px;
+  left: 18.33002471923828px;
+  width: 6px;
+  height: 4px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group186 {
+  top: 10.265887260437012px;
+  left: 0.0000021536375243158545px;
+  width: 42.97676086425781px;
+  height: 25.52813148498535px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector281 {
+  top: 0.273235559463501px;
+  left: -1.4210854715202004e-13px;
+  width: 43px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group187 {
+  top: 0px;
+  left: 0px;
+  width: 42.97676086425781px;
+  height: 25.137800216674805px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector282 {
+  top: 1.2100393772125244px;
+  left: 2.0151424407958984px;
+  width: 39px;
+  height: 23px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector283 {
+  top: 0px;
+  left: 0px;
+  width: 43px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector284 {
+  top: 8.810858726501465px;
+  left: 15.047879219055176px;
+  width: 13px;
+  height: 8px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group188 {
+  top: 6.3015289306640625px;
+  left: 10.744893074035645px;
+  width: 21.448217391967773px;
+  height: 12.495695114135742px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector285 {
+  top: 0px;
+  left: 0px;
+  width: 4px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector286 {
+  top: 10.070719718933105px;
+  left: 17.244956970214844px;
+  width: 4px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector287 {
+  top: 10.656221389770508px;
+  left: 18.33002471923828px;
+  width: 6px;
+  height: 4px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group189 {
+  top: 9.407137870788574px;
+  left: 0.0000021536375243158545px;
+  width: 42.97676086425781px;
+  height: 25.52813148498535px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector288 {
+  top: 0.27323582768440247px;
+  left: -1.4210854715202004e-13px;
+  width: 43px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group190 {
+  top: 0px;
+  left: 0px;
+  width: 42.97676086425781px;
+  height: 25.137800216674805px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector289 {
+  top: 1.2100543975830078px;
+  left: 2.0151424407958984px;
+  width: 39px;
+  height: 23px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector290 {
+  top: 0px;
+  left: 0px;
+  width: 43px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector291 {
+  top: 8.810874938964844px;
+  left: 15.047879219055176px;
+  width: 13px;
+  height: 8px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group191 {
+  top: 6.340557098388672px;
+  left: 10.744893074035645px;
+  width: 21.448217391967773px;
+  height: 12.456680297851562px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector292 {
+  top: 0px;
+  left: 0px;
+  width: 4px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector293 {
+  top: 10.031723022460938px;
+  left: 17.244956970214844px;
+  width: 4px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector294 {
+  top: 10.656234741210938px;
+  left: 18.33002471923828px;
+  width: 6px;
+  height: 4px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group192 {
+  top: 8.548388481140137px;
+  left: 0.0000021536375243158545px;
+  width: 42.97676086425781px;
+  height: 25.52813148498535px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector295 {
+  top: 0.2732509672641754px;
+  left: -1.4210854715202004e-13px;
+  width: 43px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group193 {
+  top: 0px;
+  left: 0px;
+  width: 42.97676086425781px;
+  height: 25.137800216674805px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector296 {
+  top: 1.210054636001587px;
+  left: 2.0151424407958984px;
+  width: 39px;
+  height: 23px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector297 {
+  top: 0px;
+  left: 0px;
+  width: 43px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector298 {
+  top: 8.810874938964844px;
+  left: 15.047879219055176px;
+  width: 13px;
+  height: 8px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group194 {
+  top: 6.34057092666626px;
+  left: 10.744893074035645px;
+  width: 21.448217391967773px;
+  height: 12.456682205200195px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector299 {
+  top: 0px;
+  left: 0px;
+  width: 4px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector300 {
+  top: 10.031709671020508px;
+  left: 17.244956970214844px;
+  width: 4px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector301 {
+  top: 10.65625px;
+  left: 18.33002471923828px;
+  width: 6px;
+  height: 4px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group195 {
+  top: 7.689654350280762px;
+  left: 0.0000021536375243158545px;
+  width: 42.97676086425781px;
+  height: 25.56715965270996px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector302 {
+  top: 0.2732359766960144px;
+  left: -1.4210854715202004e-13px;
+  width: 43px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group196 {
+  top: 0px;
+  left: 0px;
+  width: 42.97676086425781px;
+  height: 25.137784957885742px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector303 {
+  top: 1.210039734840393px;
+  left: 2.0151424407958984px;
+  width: 39px;
+  height: 23px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector304 {
+  top: 0px;
+  left: 0px;
+  width: 43px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector305 {
+  top: 8.810860633850098px;
+  left: 15.047879219055176px;
+  width: 13px;
+  height: 8px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group197 {
+  top: 6.340556621551514px;
+  left: 10.744893074035645px;
+  width: 21.448217391967773px;
+  height: 12.495707511901855px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector306 {
+  top: 0px;
+  left: 0px;
+  width: 4px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector307 {
+  top: 10.070751190185547px;
+  left: 17.244956970214844px;
+  width: 4px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector308 {
+  top: 10.65623664855957px;
+  left: 18.33002471923828px;
+  width: 6px;
+  height: 4px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group198 {
+  top: 6.86994743347168px;
+  left: 0.0000021536375243158545px;
+  width: 42.97676086425781px;
+  height: 25.528118133544922px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector309 {
+  top: 0.23419374227523804px;
+  left: -1.4210854715202004e-13px;
+  width: 43px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group199 {
+  top: 0px;
+  left: 0px;
+  width: 42.97676086425781px;
+  height: 25.137784957885742px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector310 {
+  top: 1.171012282371521px;
+  left: 2.0151424407958984px;
+  width: 39px;
+  height: 23px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector311 {
+  top: 0px;
+  left: 0px;
+  width: 43px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector312 {
+  top: 8.771832466125488px;
+  left: 15.047879219055176px;
+  width: 13px;
+  height: 8px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group200 {
+  top: 6.301513671875px;
+  left: 10.744893074035645px;
+  width: 21.448217391967773px;
+  height: 12.495723724365234px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector313 {
+  top: 0px;
+  left: 0px;
+  width: 4px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector314 {
+  top: 10.070751190185547px;
+  left: 17.244956970214844px;
+  width: 4px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector315 {
+  top: 10.617194175720215px;
+  left: 18.33002471923828px;
+  width: 6px;
+  height: 4px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group201 {
+  top: 6.011198043823242px;
+  left: 0.0000021536375243158545px;
+  width: 42.97676086425781px;
+  height: 25.528118133544922px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector316 {
+  top: 0.23420889675617218px;
+  left: -1.4210854715202004e-13px;
+  width: 43px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group202 {
+  top: 0px;
+  left: 0px;
+  width: 42.97676086425781px;
+  height: 25.137784957885742px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector317 {
+  top: 1.1710125207901px;
+  left: 2.0151424407958984px;
+  width: 39px;
+  height: 23px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector318 {
+  top: 0px;
+  left: 0px;
+  width: 43px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector319 {
+  top: 8.771833419799805px;
+  left: 15.047879219055176px;
+  width: 13px;
+  height: 8px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group203 {
+  top: 6.301529407501221px;
+  left: 10.744893074035645px;
+  width: 21.448217391967773px;
+  height: 12.495720863342285px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector320 {
+  top: 0px;
+  left: 0px;
+  width: 4px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector321 {
+  top: 10.070735931396484px;
+  left: 17.244956970214844px;
+  width: 4px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector322 {
+  top: 10.617207527160645px;
+  left: 18.33002471923828px;
+  width: 6px;
+  height: 4px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group204 {
+  top: 5.152449607849121px;
+  left: 0.0000021536375243158545px;
+  width: 42.97676086425781px;
+  height: 25.528118133544922px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector323 {
+  top: 0.23420819640159607px;
+  left: -1.4210854715202004e-13px;
+  width: 43px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group205 {
+  top: 0px;
+  left: 0px;
+  width: 42.97676086425781px;
+  height: 25.137784957885742px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector324 {
+  top: 1.1710118055343628px;
+  left: 2.0151424407958984px;
+  width: 39px;
+  height: 23px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector325 {
+  top: 0px;
+  left: 0px;
+  width: 43px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector326 {
+  top: 8.810873985290527px;
+  left: 15.047879219055176px;
+  width: 13px;
+  height: 8px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group206 {
+  top: 6.301528453826904px;
+  left: 10.744893074035645px;
+  width: 21.448217391967773px;
+  height: 12.495720863342285px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector327 {
+  top: 0px;
+  left: 0px;
+  width: 4px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector328 {
+  top: 10.0707368850708px;
+  left: 17.244956970214844px;
+  width: 4px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector329 {
+  top: 10.617206573486328px;
+  left: 18.33002471923828px;
+  width: 6px;
+  height: 4px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group207 {
+  top: 4.293715000152588px;
+  left: 0.0000021536375243158545px;
+  width: 42.97676086425781px;
+  height: 25.52813148498535px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector330 {
+  top: 0.23419366776943207px;
+  left: -1.4210854715202004e-13px;
+  width: 43px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group208 {
+  top: 0px;
+  left: 0px;
+  width: 42.97676086425781px;
+  height: 25.13776969909668px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector331 {
+  top: 1.171012282371521px;
+  left: 2.0151424407958984px;
+  width: 39px;
+  height: 23px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector332 {
+  top: 0px;
+  left: 0px;
+  width: 43px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector333 {
+  top: 8.810859680175781px;
+  left: 15.047879219055176px;
+  width: 13px;
+  height: 8px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group209 {
+  top: 6.301514148712158px;
+  left: 10.744893074035645px;
+  width: 21.448217391967773px;
+  height: 12.495720863342285px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector334 {
+  top: 0px;
+  left: 0px;
+  width: 4px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector335 {
+  top: 10.0707368850708px;
+  left: 17.244956970214844px;
+  width: 4px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector336 {
+  top: 10.617193222045898px;
+  left: 18.33002471923828px;
+  width: 6px;
+  height: 4px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group210 {
+  top: 3.4349660873413086px;
+  left: 0.0000021536375243158545px;
+  width: 42.97676086425781px;
+  height: 25.52813148498535px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector337 {
+  top: 0.27323561906814575px;
+  left: -1.4210854715202004e-13px;
+  width: 43px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group211 {
+  top: 0px;
+  left: 0px;
+  width: 42.97676086425781px;
+  height: 25.137800216674805px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector338 {
+  top: 1.1710121631622314px;
+  left: 2.0151424407958984px;
+  width: 39px;
+  height: 23px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector339 {
+  top: 0px;
+  left: 0px;
+  width: 43px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector340 {
+  top: 8.810859680175781px;
+  left: 15.047879219055176px;
+  width: 13px;
+  height: 8px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group212 {
+  top: 6.301529407501221px;
+  left: 10.744893074035645px;
+  width: 21.448217391967773px;
+  height: 12.49569320678711px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector341 {
+  top: 0px;
+  left: 0px;
+  width: 4px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector342 {
+  top: 10.070721626281738px;
+  left: 17.244956970214844px;
+  width: 4px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector343 {
+  top: 10.617206573486328px;
+  left: 18.33002471923828px;
+  width: 6px;
+  height: 4px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group213 {
+  top: 2.576216697692871px;
+  left: 0.0000021536375243158545px;
+  width: 42.97676086425781px;
+  height: 25.52813148498535px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector344 {
+  top: 0.27323588728904724px;
+  left: -1.4210854715202004e-13px;
+  width: 43px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group214 {
+  top: 0px;
+  left: 0px;
+  width: 42.97676086425781px;
+  height: 25.137800216674805px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector345 {
+  top: 1.2100545167922974px;
+  left: 2.0151424407958984px;
+  width: 39px;
+  height: 23px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector346 {
+  top: 0px;
+  left: 0px;
+  width: 43px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector347 {
+  top: 8.810874938964844px;
+  left: 15.047879219055176px;
+  width: 13px;
+  height: 8px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group215 {
+  top: 6.301529407501221px;
+  left: 10.744893074035645px;
+  width: 21.448217391967773px;
+  height: 12.49569320678711px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector348 {
+  top: 0px;
+  left: 0px;
+  width: 4px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector349 {
+  top: 10.070721626281738px;
+  left: 17.244956970214844px;
+  width: 4px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector350 {
+  top: 10.617208480834961px;
+  left: 18.33002471923828px;
+  width: 6px;
+  height: 4px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group216 {
+  top: 1.7174679040908813px;
+  left: 0.0000021536375243158545px;
+  width: 42.97676086425781px;
+  height: 25.52813148498535px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector351 {
+  top: 0.27325043082237244px;
+  left: -1.4210854715202004e-13px;
+  width: 43px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group217 {
+  top: 0px;
+  left: 0px;
+  width: 42.97676086425781px;
+  height: 25.137800216674805px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector352 {
+  top: 1.2100540399551392px;
+  left: 2.0151424407958984px;
+  width: 39px;
+  height: 23px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector353 {
+  top: 0px;
+  left: 0px;
+  width: 43px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector354 {
+  top: 8.810874938964844px;
+  left: 15.047879219055176px;
+  width: 13px;
+  height: 8px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group218 {
+  top: 6.340570449829102px;
+  left: 10.744893074035645px;
+  width: 21.448217391967773px;
+  height: 12.456674575805664px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector355 {
+  top: 0px;
+  left: 0px;
+  width: 4px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector356 {
+  top: 10.031695365905762px;
+  left: 17.244956970214844px;
+  width: 4px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector357 {
+  top: 10.65625px;
+  left: 18.33002471923828px;
+  width: 6px;
+  height: 4px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group219 {
+  top: 0.8587335348129272px;
+  left: 0.0000021536375243158545px;
+  width: 42.97676086425781px;
+  height: 25.528118133544922px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector358 {
+  top: 0.27323564887046814px;
+  left: -1.4210854715202004e-13px;
+  width: 43px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group220 {
+  top: 0px;
+  left: 0px;
+  width: 42.97676086425781px;
+  height: 25.137784957885742px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector359 {
+  top: 1.210039496421814px;
+  left: 2.0151424407958984px;
+  width: 39px;
+  height: 23px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector360 {
+  top: 0px;
+  left: 0px;
+  width: 43px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector361 {
+  top: 8.810858726501465px;
+  left: 15.047879219055176px;
+  width: 13px;
+  height: 8px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group221 {
+  top: 6.3405561447143555px;
+  left: 10.744893074035645px;
+  width: 21.448217391967773px;
+  height: 12.4566650390625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector362 {
+  top: 0px;
+  left: 0px;
+  width: 4px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector363 {
+  top: 10.031694412231445px;
+  left: 17.244956970214844px;
+  width: 4px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector364 {
+  top: 10.65623664855957px;
+  left: 18.33002471923828px;
+  width: 6px;
+  height: 4px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group222 {
+  top: 0px;
+  left: 0px;
+  width: 42.97676086425781px;
+  height: 25.528118133544922px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector365 {
+  top: 0.2732200622558594px;
+  left: 0.0000021536375243158545px;
+  width: 43px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group223 {
+  top: 0px;
+  left: 0px;
+  width: 42.97676086425781px;
+  height: 25.137784957885742px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector366 {
+  top: 1.210038661956787px;
+  left: 2.0151445865631104px;
+  width: 39px;
+  height: 23px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector367 {
+  top: 0px;
+  left: 0px;
+  width: 43px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector368 {
+  top: 8.810858726501465px;
+  left: 15.047882080078125px;
+  width: 13px;
+  height: 8px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group224 {
+  top: 6.340540885925293px;
+  left: 10.744895935058594px;
+  width: 21.448217391967773px;
+  height: 12.456674575805664px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector369 {
+  top: 0px;
+  left: 0px;
+  width: 4px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector370 {
+  top: 10.031693458557129px;
+  left: 17.244953155517578px;
+  width: 4px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group225 {
+  top: 220.29110717773438px;
+  left: 185.3154296875px;
+  width: 87.8911361694336px;
+  height: 88.52873229980469px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group226 {
+  top: 32.00773620605469px;
+  left: 16.075124740600586px;
+  width: 40.658836364746094px;
+  height: 55.402793884277344px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group227 {
+  top: 0px;
+  left: 0px;
+  width: 40.658836364746094px;
+  height: 55.402793884277344px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector371 {
+  top: 0.000001868618937805877px;
+  left: 8.494094848632812px;
+  width: 32px;
+  height: 55px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector372 {
+  top: 1.898892879486084px;
+  left: -7.099790764186764e-7px;
+  width: 35px;
+  height: 54px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector373 {
+  top: 0.03904404118657112px;
+  left: 8.532840728759766px;
+  width: 32px;
+  height: 54px;
+  opacity: 0.34;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector374 {
+  top: 1.898892879486084px;
+  left: -7.099790764186764e-7px;
+  width: 35px;
+  height: 54px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group228 {
+  top: 6.635772228240967px;
+  left: 16.205875396728516px;
+  width: 0.5812965035438538px;
+  height: 41.61005401611328px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group229 {
+  top: 0px;
+  left: 0px;
+  width: 0.5812965035438538px;
+  height: 5.269562244415283px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector375 {
+  top: 0px;
+  left: 0px;
+  width: 1px;
+  height: 5px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group230 {
+  top: 36.37953186035156px;
+  left: -9.915636383084347e-7px;
+  width: 0.5812965035438538px;
+  height: 5.2305192947387695px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector376 {
+  top: 0px;
+  left: 0px;
+  width: 1px;
+  height: 5px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group231 {
+  top: 16.120994567871094px;
+  left: 15.779607772827148px;
+  width: 1.4725919961929321px;
+  height: 10.265888214111328px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group232 {
+  top: 0px;
+  left: 0px;
+  width: 1.4725919961929321px;
+  height: 10.265888214111328px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector377 {
+  top: 1.6003718376159668px;
+  left: 0.5812810659408569px;
+  width: 0px;
+  height: 9px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector378 {
+  top: 0px;
+  left: 0px;
+  width: 1px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector379 {
+  top: 20.805044174194336px;
+  left: 2.913695812225342px;
+  width: 5px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector380 {
+  top: 33.88137435913086px;
+  left: 27.870445251464844px;
+  width: 5px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group233 {
+  top: 27.050451278686523px;
+  left: 16.205875396728516px;
+  width: 12.09085464477539px;
+  height: 7.182240962982178px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector381 {
+  top: 0px;
+  left: 0px;
+  width: 10px;
+  height: 6px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector382 {
+  top: 4.84018611907959px;
+  left: 10.075711250305176px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector383 {
+  top: 25.82849884033203px;
+  left: 15.275816917419434px;
+  width: 3px;
+  height: 3px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector384 {
+  top: 0px;
+  left: 0px;
+  width: 88px;
+  height: 89px;
+  opacity: 0.61;
+  position: absolute;
+}
+ 
+.henripayfaisal-frame171 {
+  gap: 32px;
+  width: 523px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.henripayfaisal-frame151 {
+  gap: 16px;
+  width: 523px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.henripayfaisal-text127 {
+  color: var(--dl-color-default-ffffff);
+  width: 685px;
+  height: auto;
+  font-size: 48px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 64px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-text135 {
+  color: rgba(255, 255, 255, 1);
+  width: 523px;
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-section5 {
+  top: 4444px;
+  left: 0px;
+  right: 0px;
+  width: 1100px;
+  height: 470px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.henripayfaisal-sellyour1 {
+  left: 0px;
+  width: 910px;
+  height: 470px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 7px 7px 15px 0px rgba(0, 0, 0, 0.15000000596046448) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 20px;
+}
+ 
+.henripayfaisal-rectangle82 {
+  top: 0px;
+  left: 0px;
+  width: 910px;
+  height: 526px;
+  position: absolute;
+}
+ 
+.henripayfaisal-ellipse112 {
+  top: 351px;
+  left: -175px;
+  width: 350px;
+  height: 350px;
+  position: absolute;
+}
+ 
+.henripayfaisal-ellipse122 {
+  top: -173px;
+  left: 737px;
+  width: 346px;
+  height: 346px;
+  opacity: 0.50;
+  position: absolute;
+}
+ 
+.henripayfaisal-frame172 {
+  gap: 32px;
+  top: 95px;
+  left: 64px;
+  width: 500px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.henripayfaisal-frame152 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.henripayfaisal-text136 {
+  color: var(--dl-color-default-ffffff);
+  height: auto;
+  font-size: 48px;
+  align-self: stretch;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 64px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-text137 {
+  color: rgba(255, 255, 255, 1);
+  width: 500px;
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-rectangle11 {
+  top: 60px;
+  left: 628px;
+  width: 470px;
+  height: 350px;
+  position: absolute;
+  border-radius: 20px;
+}
+ 
+.henripayfaisal-section4 {
+  top: 3582px;
+  left: 0px;
+  right: 0px;
+  width: 853px;
+  height: 766px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.henripayfaisal-frame16 {
+  gap: 32px;
+  top: 209px;
+  left: 564px;
+  width: 289px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.henripayfaisal-frame153 {
+  gap: 16px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.henripayfaisal-text138 {
+  color: var(--dl-color-default-ffb60e);
+  width: 251px;
+  height: auto;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 32px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-text139 {
+  color: var(--dl-color-default-ffffff);
+  width: 285px;
+  height: auto;
+  font-size: 48px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 64px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-frame41371 {
+  gap: 15px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.henripayfaisal-frame4135 {
+  gap: 15px;
+  display: flex;
+  align-items: center;
+}
+ 
+.henripayfaisal-ellipse881 {
+  width: 7px;
+  height: 7px;
+}
+ 
+.henripayfaisal-text140 {
+  color: var(--dl-color-default-ffffff);
+  width: 194px;
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+ 
+.henripayfaisal-frame4136 {
+  gap: 15px;
+  display: flex;
+  align-items: center;
+}
+ 
+.henripayfaisal-ellipse882 {
+  width: 7px;
+  height: 7px;
+}
+ 
+.henripayfaisal-text141 {
+  color: var(--dl-color-default-ffffff);
+  width: 213px;
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+ 
+.henripayfaisal-frame41372 {
+  gap: 15px;
+  display: flex;
+  align-items: center;
+}
+ 
+.henripayfaisal-ellipse883 {
+  width: 7px;
+  height: 7px;
+}
+ 
+.henripayfaisal-text142 {
+  color: var(--dl-color-default-ffffff);
+  width: 267px;
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+ 
+.henripayfaisal-frame4138 {
+  gap: 15px;
+  display: flex;
+  align-items: center;
+}
+ 
+.henripayfaisal-ellipse884 {
+  width: 7px;
+  height: 7px;
+}
+ 
+.henripayfaisal-text143 {
+  color: var(--dl-color-default-ffffff);
+  width: 264px;
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+ 
+.henripayfaisal-group3742 {
+  top: 0px;
+  left: 0px;
+  width: 474px;
+  height: 766px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-opensea1 {
+  top: 0px;
+  left: 0px;
+  width: 346px;
+  height: 766px;
+  position: absolute;
+  box-sizing: content-box;
+  border-style: solid;
+  border-width: 10px;
+  border-radius: 20px;
+}
+ 
+.henripayfaisal-group52 {
+  top: 40px;
+  left: 316px;
+  width: 158px;
+  height: 685.1064453125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group24 {
+  top: 233.7021484375px;
+  left: 0px;
+  width: 158px;
+  height: 100.85106658935547px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-radius: 15px;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.henripayfaisal-image5 {
+  top: 18.4893741607666px;
+  left: 26.893617630004883px;
+  width: 104px;
+  height: 64px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group23 {
+  top: 350.55322265625px;
+  left: 0px;
+  width: 158px;
+  height: 100.85106658935547px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-radius: 15px;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.henripayfaisal-image6 {
+  top: 18.489360809326172px;
+  left: 59.67021179199219px;
+  width: 38px;
+  height: 64px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group25 {
+  top: 116.85107421875px;
+  left: 0px;
+  width: 158px;
+  height: 100.85106658935547px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-radius: 15px;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.henripayfaisal-image7 {
+  top: 30.255313873291016px;
+  left: 17.648935317993164px;
+  width: 123px;
+  height: 40px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group50 {
+  top: 0px;
+  left: 0px;
+  width: 158px;
+  height: 100.85106658935547px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-radius: 15px;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.henripayfaisal-image10 {
+  top: 15px;
+  left: 39px;
+  width: 80px;
+  height: 70px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group22 {
+  top: 467.404296875px;
+  left: 0px;
+  width: 158px;
+  height: 100.85106658935547px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-radius: 15px;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.henripayfaisal-image9 {
+  top: 18.489347457885742px;
+  left: 42.86170196533203px;
+  width: 73px;
+  height: 64px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group51 {
+  top: 584.25537109375px;
+  left: 0px;
+  width: 158px;
+  height: 100.85106658935547px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-radius: 15px;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.henripayfaisal-image11 {
+  top: 14px;
+  left: 28px;
+  width: 102px;
+  height: 72px;
+  position: absolute;
+}
+ 
+.henripayfaisal-section3 {
+  top: 2819px;
+  left: 0px;
+  right: 0px;
+  width: 100%;
+  height: 732px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.henripayfaisal-frame4141 {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 669px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: center;
+}
+ 
+.henripayfaisal-group37497 {
+  top: 238px;
+  left: 0px;
+  width: 604px;
+  height: 379px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(30, 30, 44, 1);
+}
+ 
+.henripayfaisal-group66 {
+  top: 25px;
+  left: 49px;
+  width: 506.7119445800781px;
+  height: 330px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-frame4139 {
+  gap: 5px;
+  top: 0px;
+  left: 331px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+}
+ 
+.henripayfaisal-iconiconsend {
+  width: 24px;
+  height: 24px;
+}
+ 
+.henripayfaisal-text144 {
+  color: var(--dl-color-default-ffffff);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+ 
+.henripayfaisal-arrow1 {
+  top: 29px;
+  left: 56px;
+  width: 245px;
+  height: 1px;
+  position: absolute;
+  border-color: #fc4b2c;
+  border-width: 1px;
+}
+ 
+.henripayfaisal-text148 {
+  top: 15px;
+  left: 4px;
+  color: var(--dl-color-default-ffffff);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-vector19 {
+  top: 71px;
+  left: 398px;
+  width: 30px;
+  height: 46px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector21 {
+  top: 232px;
+  left: 377px;
+  width: 51px;
+  height: 58px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector20 {
+  top: 168px;
+  left: 50px;
+  width: 242px;
+  height: 46px;
+  position: absolute;
+}
+ 
+.henripayfaisal-frame4140 {
+  gap: 10px;
+  top: 105px;
+  left: 8px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+}
+ 
+.henripayfaisal-playlist-play {
+  width: 24px;
+  height: 24px;
+}
+ 
+.henripayfaisal-text149 {
+  color: var(--dl-color-default-ffffff);
+  width: 329px;
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+ 
+.henripayfaisal-frame73 {
+  gap: 21px;
+  top: 175px;
+  left: 295px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+}
+ 
+.henripayfaisal-ricustomerservice2line {
+  width: 36px;
+  height: 36px;
+}
+ 
+.henripayfaisal-text150 {
+  color: var(--dl-color-default-ffffff);
+  width: 141px;
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-frame74 {
+  gap: 21px;
+  top: 242px;
+  left: 0px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+}
+ 
+.henripayfaisal-materialsymbolsimagesmode {
+  width: 42px;
+  height: 42px;
+}
+ 
+.henripayfaisal-text151 {
+  color: var(--dl-color-default-ffffff);
+  width: 299px;
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-group37351 {
+  top: 187px;
+  left: 667px;
+  width: 467px;
+  height: 482px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-frame75 {
+  top: 0px;
+  left: 0px;
+  width: 467px;
+  height: 482px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 23px;
+  background-color: rgba(41, 41, 55, 1);
+}
+ 
+.henripayfaisal-ellipse18 {
+  top: 377.9786376953125px;
+  left: -101.02845764160156px;
+  width: 238px;
+  height: 276px;
+  position: absolute;
+}
+ 
+.henripayfaisal-ellipse131 {
+  top: -217.3119659423828px;
+  left: 218.00877380371094px;
+  width: 321px;
+  height: 373px;
+  position: absolute;
+}
+ 
+.henripayfaisal-portraityoungafricanamericanmanwithvrglasses2 {
+  top: 208px;
+  left: 132px;
+  width: 379px;
+  height: 426px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group12 {
+  top: 30.6170597076416px;
+  left: 369.9269714355469px;
+  width: 65.79120635986328px;
+  height: 59.82685089111328px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-subtract2 {
+  top: 1.8346547392411594e-7px;
+  left: 6.230692386627197px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+}
+ 
+.henripayfaisal-ellipse32 {
+  top: 5.9825005531311035px;
+  left: -0.000005143412181496387px;
+  width: 21px;
+  height: 21px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.henripayfaisal-frame78 {
+  gap: 30px;
+  top: 37px;
+  left: 33px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.henripayfaisal-frame77 {
+  gap: 16px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.henripayfaisal-text152 {
+  color: var(--dl-color-default-ffffff);
+  width: 281px;
+  height: auto;
+  font-size: 32px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 40px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-text153 {
+  color: var(--dl-color-default-ffffff);
+  width: 146px;
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-button2 {
+  gap: 10px;
+  width: 184px;
+  height: 57px;
+  display: flex;
+  padding: 5px;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 50px;
+  flex-direction: column;
+}
+ 
+.henripayfaisal-frame110 {
+  gap: 10px;
+  width: 172px;
+  display: flex;
+  padding: 14px 32px;
+  background: linear-gradient(-60deg, rgba(252, 75, 44, 1) 0%, rgba(255, 182, 14, 1) 100%);
+  align-items: flex-start;
+  border-radius: 50px;
+  background-color: var(--dl-color-default-linear);
+}
+ 
+.henripayfaisal-text154 {
+  color: rgba(30, 30, 44, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-frame66 {
+  gap: 20px;
+  top: 0px;
+  left: 84px;
+  width: 965px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.henripayfaisal-text155 {
+  color: var(--dl-color-default-ffffff);
+  width: 331px;
+  height: auto;
+  font-size: 48px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 56.5px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-text156 {
+  color: var(--dl-color-default-ffffff);
+  width: 965px;
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-section2 {
+  top: 2000px;
+  left: 0px;
+  width: 100%;
+  height: 680px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.henripayfaisal-group301 {
+  top: 0px;
+  left: 270px;
+  width: 594px;
+  height: 128px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-text157 {
+  color: var(--dl-color-default-ffffff);
+  width: 594px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: 64px;
+}
+ 
+.henripayfaisal-sellyour2 {
+  left: 0px;
+  right: 0px;
+  width: 90%;
+  bottom: 0px;
+  height: 520px;
+  margin: auto;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 7px 7px 15px 0px rgba(0, 0, 0, 0.15000000596046448) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 20px;
+  justify-content: center;
+  background-color: var(--dl-color-default-1e1e2c);
+}
+ 
+.henripayfaisal-ellipse132 {
+  top: -122px;
+  left: 822px;
+  width: 350px;
+  height: 350px;
+  position: absolute;
+}
+ 
+.henripayfaisal-ellipse113 {
+  top: 309px;
+  left: -160px;
+  width: 350px;
+  height: 350px;
+  position: absolute;
+}
+ 
+.henripayfaisal-button3 {
+  gap: 10px;
+  top: 438px;
+  left: 458px;
+  width: 240px;
+  display: flex;
+  padding: 5px;
+  position: absolute;
+  align-items: flex-start;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 50px;
+  flex-direction: column;
+}
+ 
+.henripayfaisal-frame111 {
+  gap: 10px;
+  width: 100%;
+  display: flex;
+  padding: 14px 32px;
+  background: linear-gradient(-60deg, rgba(252, 75, 44, 1) 0%, rgba(255, 182, 14, 1) 100%);
+  align-items: flex-start;
+  border-radius: 50px;
+  background-color: var(--dl-color-default-linear);
+}
+ 
+.henripayfaisal-text158 {
+  color: var(--dl-color-default-1e1e2c);
+  height: auto;
+  font-size: 16px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-payments {
+  top: 39px;
+  left: 90px;
+  width: 954px;
+  height: 424px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group8986 {
+  top: 58px;
+  left: 247px;
+  width: 460px;
+  height: 306px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-girlisshoppinginternet1 {
+  top: 0px;
+  left: 0px;
+  width: 460px;
+  height: 306px;
+  position: absolute;
+  border-radius: 20px;
+}
+ 
+.henripayfaisal-frame8986 {
+  gap: 1px;
+  top: 132px;
+  left: 120px;
+  width: 219.50807189941406px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+ 
+.henripayfaisal-logowhite {
+  gap: 1px;
+  top: 0px;
+  left: 0px;
+  width: 220px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 0px 0px 1px rgba(196, 112, 76, 1) ;
+  align-items: flex-start;
+}
+ 
+.henripayfaisal-group361 {
+  top: 0px;
+  left: 0px;
+  width: 202.50807189941406px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group16 {
+  top: 0px;
+  left: 0px;
+  width: 45.92351150512695px;
+  height: 41.7486457824707px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-subtract3 {
+  top: 0px;
+  left: 4.32905912399292px;
+  width: 42px;
+  height: 42px;
+  position: absolute;
+}
+ 
+.henripayfaisal-ellipse33 {
+  top: 4.174854755401611px;
+  left: 0px;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.henripayfaisal-henri-pay2 {
+  top: 8.604598045349121px;
+  left: 56.407920837402344px;
+  width: 146px;
+  height: 33px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.henripayfaisal-trademark {
+  top: 9px;
+  left: 205px;
+  width: 14px;
+  height: 14px;
+  position: absolute;
+}
+ 
+.henripayfaisal-frame4165 {
+  gap: 25px;
+  top: 0px;
+  left: 673px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.henripayfaisal-frame241 {
+  gap: 10px;
+  height: 28px;
+  display: flex;
+  padding: 4px 16px;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 15px;
+  justify-content: center;
+  background-color: rgba(30, 30, 44, 1);
+}
+ 
+.henripayfaisal-text159 {
+  color: var(--dl-color-default-ffffff);
+  height: auto;
+  font-size: 16px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-frame4164 {
+  gap: 25px;
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.henripayfaisal-frame4160 {
+  gap: 25px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.henripayfaisal-frame4154 {
+  width: 128px;
+  height: 74px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0px 0px 0px 5px rgba(255, 255, 255, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background-color: var(--dl-color-default-ffffff);
+}
+ 
+.henripayfaisal-frame45 {
+  top: 27px;
+  left: 11px;
+  width: 106px;
+  height: 20px;
+  position: absolute;
+}
+ 
+.henripayfaisal-frame4156 {
+  width: 128px;
+  height: 74px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0px 0px 0px 5px rgba(255, 255, 255, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background-color: var(--dl-color-default-ffffff);
+}
+ 
+.henripayfaisal-bitcoinlogo1 {
+  top: 25px;
+  left: 6px;
+  width: 116px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.henripayfaisal-group234 {
+  top: 0.001425440306775272px;
+  left: -0.0011414276668801904px;
+  width: 116.00242614746094px;
+  height: 23.99986457824707px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector385 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector386 {
+  top: 4.181370735168457px;
+  left: 5.893314361572266px;
+  width: 12px;
+  height: 15px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector387 {
+  top: 0.0035641056019812822px;
+  left: 24.79469871520996px;
+  width: 16px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector388 {
+  top: 0.309185266494751px;
+  left: 41.581573486328125px;
+  width: 10px;
+  height: 23px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector389 {
+  top: 2.889890670776367px;
+  left: 50.51545715332031px;
+  width: 12px;
+  height: 21px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector390 {
+  top: 7.170074462890625px;
+  left: 62.4301643371582px;
+  width: 14px;
+  height: 17px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector391 {
+  top: 7.170074462890625px;
+  left: 76.21051025390625px;
+  width: 15px;
+  height: 17px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector392 {
+  top: 0.309185266494751px;
+  left: 92.05766296386719px;
+  width: 10px;
+  height: 23px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector393 {
+  top: 7.230818271636963px;
+  left: 100.01757049560547px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+}
+ 
+.henripayfaisal-frame4159 {
+  gap: 25px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.henripayfaisal-frame41531 {
+  width: 128px;
+  height: 74px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0px 0px 0px 5px rgba(255, 255, 255, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background-color: var(--dl-color-default-ffffff);
+}
+ 
+.henripayfaisal-ethereumethlogofullhorizontal1 {
+  top: 23px;
+  left: 9px;
+  width: 111px;
+  height: 28px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.henripayfaisal-layer2 {
+  top: 0px;
+  left: 0px;
+  width: 111px;
+  height: 28px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-layer11 {
+  top: 0px;
+  left: 0px;
+  width: 111px;
+  height: 28px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector394 {
+  top: 11.858092308044434px;
+  left: 23.577220916748047px;
+  width: 8px;
+  height: 9px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector395 {
+  top: 9.019966125488281px;
+  left: 35.14986801147461px;
+  width: 5px;
+  height: 11px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector396 {
+  top: 5.173687934875488px;
+  left: 44.21495056152344px;
+  width: 7px;
+  height: 15px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector397 {
+  top: 11.858092308044434px;
+  left: 55.25333023071289px;
+  width: 8px;
+  height: 9px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector398 {
+  top: 12.023650169372559px;
+  left: 67.60716247558594px;
+  width: 4px;
+  height: 8px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector399 {
+  top: 11.858092308044434px;
+  left: 74.83250427246094px;
+  width: 8px;
+  height: 9px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector400 {
+  top: 12.064657211303711px;
+  left: 87.08361053466797px;
+  width: 7px;
+  height: 8px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector401 {
+  top: 11.878787994384766px;
+  left: 98.32744598388672px;
+  width: 13px;
+  height: 8px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector402 {
+  top: 10.357723236083984px;
+  left: 0px;
+  width: 17px;
+  height: 9px;
+  opacity: 0.60;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector403 {
+  top: 0px;
+  left: 0px;
+  width: 9px;
+  height: 19px;
+  opacity: 0.45;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector404 {
+  top: 0px;
+  left: 8.530555725097656px;
+  width: 9px;
+  height: 19px;
+  opacity: 0.80;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector405 {
+  top: 15.893568992614746px;
+  left: 0px;
+  width: 9px;
+  height: 12px;
+  opacity: 0.45;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector406 {
+  top: 15.893568992614746px;
+  left: 8.530555725097656px;
+  width: 9px;
+  height: 12px;
+  opacity: 0.80;
+  position: absolute;
+}
+ 
+.henripayfaisal-frame4155 {
+  width: 128px;
+  height: 74px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0px 0px 0px 5px rgba(255, 255, 255, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background-color: var(--dl-color-default-ffffff);
+}
+ 
+.henripayfaisal-tether-logo1 {
+  top: 21px;
+  left: 14px;
+  width: 101px;
+  height: 33px;
+  position: absolute;
+}
+ 
+.henripayfaisal-frame4166 {
+  gap: 25px;
+  top: 0px;
+  left: 0px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.henripayfaisal-frame4162 {
+  gap: 10px;
+  height: 28px;
+  display: flex;
+  padding: 4px 16px;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 15px;
+  justify-content: center;
+  background-color: var(--dl-color-default-1e1e2c);
+}
+ 
+.henripayfaisal-text160 {
+  color: var(--dl-color-default-ffffff);
+  height: auto;
+  font-size: 16px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-frame4163 {
+  gap: 25px;
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.henripayfaisal-frame4158 {
+  gap: 25px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.henripayfaisal-frame4149 {
+  width: 128px;
+  height: 74px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0px 0px 0px 5px rgba(255, 255, 255, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background-color: var(--dl-color-default-ffffff);
+}
+ 
+.henripayfaisal-ideallogo1 {
+  top: 5px;
+  left: 28px;
+  width: 72px;
+  height: 64px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.henripayfaisal-group235 {
+  top: 0px;
+  left: 0px;
+  width: 72px;
+  height: 64px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group236 {
+  top: 0px;
+  left: 0px;
+  width: 72px;
+  height: 64px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector407 {
+  top: 0px;
+  left: 0px;
+  width: 72px;
+  height: 64px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector408 {
+  top: 10.342475891113281px;
+  left: 21.616466522216797px;
+  width: 40px;
+  height: 43px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group237 {
+  top: 4.364714622497559px;
+  left: 4.398562431335449px;
+  width: 63.22639083862305px;
+  height: 55.29429244995117px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group238 {
+  top: 0px;
+  left: 0px;
+  width: 63.22639083862305px;
+  height: 55.29429244995117px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector409 {
+  top: 0px;
+  left: 0px;
+  width: 63px;
+  height: 55px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group239 {
+  top: 26.49666404724121px;
+  left: 23.662853240966797px;
+  width: 35.753021240234375px;
+  height: 9.654559135437012px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector410 {
+  top: 0px;
+  left: 0px;
+  width: 8px;
+  height: 10px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector411 {
+  top: 6.233781846276543e-7px;
+  left: 9.785037994384766px;
+  width: 7px;
+  height: 10px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector412 {
+  top: 0.02372334897518158px;
+  left: 18.32342529296875px;
+  width: 9px;
+  height: 10px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector413 {
+  top: 0.02372334897518158px;
+  left: 29.002286911010742px;
+  width: 7px;
+  height: 10px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group240 {
+  top: 26.899927139282227px;
+  left: 9.36164665222168px;
+  width: 8.797123908996582px;
+  height: 8.871757507324219px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector414 {
+  top: 0px;
+  left: 0px;
+  width: 9px;
+  height: 9px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector415 {
+  top: 38.333587646484375px;
+  left: 10.420124053955078px;
+  width: 7px;
+  height: 15px;
+  position: absolute;
+}
+ 
+.henripayfaisal-frame4151 {
+  width: 128px;
+  height: 74px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0px 0px 0px 5px rgba(255, 255, 255, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background-color: var(--dl-color-default-ffffff);
+}
+ 
+.henripayfaisal-bancontactlogo2 {
+  top: 9px;
+  left: 25px;
+  width: 79px;
+  height: 56px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.henripayfaisal-group241 {
+  top: 0px;
+  left: 0px;
+  width: 79px;
+  height: 56px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group242 {
+  top: 0px;
+  left: 0px;
+  width: 79px;
+  height: 56px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector416 {
+  top: 0px;
+  left: 0px;
+  width: 79px;
+  height: 56px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group243 {
+  top: 8.989153861999512px;
+  left: 8.915057182312012px;
+  width: 61.21833419799805px;
+  height: 24.732322692871094px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector417 {
+  top: 6.656833648681641px;
+  left: -8.029358014027821e-7px;
+  width: 55px;
+  height: 18px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector418 {
+  top: 1.510156835138332e-7px;
+  left: 6.662066459655762px;
+  width: 55px;
+  height: 18px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector419 {
+  top: 38.16746520996094px;
+  left: 8.915057182312012px;
+  width: 61px;
+  height: 9px;
+  position: absolute;
+}
+ 
+.henripayfaisal-frame41521 {
+  width: 128px;
+  height: 74px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0px 0px 0px 5px rgba(255, 255, 255, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background-color: var(--dl-color-default-ffffff);
+}
+ 
+.henripayfaisal-group244 {
+  top: 6px;
+  left: 21.000022888183594px;
+  width: 86.25732421875px;
+  height: 62px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector420 {
+  top: 0px;
+  left: 0px;
+  width: 86px;
+  height: 62px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector421 {
+  top: 21.56438446044922px;
+  left: 5.391096115112305px;
+  width: 75px;
+  height: 19px;
+  position: absolute;
+}
+ 
+.henripayfaisal-frame4157 {
+  gap: 25px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.henripayfaisal-frame4150 {
+  width: 128px;
+  height: 74px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0px 0px 0px 5px rgba(255, 255, 255, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background-color: var(--dl-color-default-ffffff);
+}
+ 
+.henripayfaisal-frame4147 {
+  top: 16px;
+  left: 16px;
+  width: 96px;
+  height: 42px;
+  position: absolute;
+}
+ 
+.henripayfaisal-frame41522 {
+  width: 128px;
+  height: 74px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0px 0px 0px 5px rgba(255, 255, 255, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background-color: var(--dl-color-default-ffffff);
+}
+ 
+.henripayfaisal-frame4145 {
+  top: 23px;
+  left: 6px;
+  width: 116px;
+  height: 28px;
+  position: absolute;
+}
+ 
+.henripayfaisal-frame41532 {
+  width: 128px;
+  height: 74px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0px 0px 0px 5px rgba(255, 255, 255, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background-color: var(--dl-color-default-ffffff);
+}
+ 
+.henripayfaisal-mastercard1 {
+  top: 10px;
+  left: 29px;
+  width: 70px;
+  height: 54px;
+  position: absolute;
+}
+ 
+.henripayfaisal-frame4148 {
+  width: 128px;
+  height: 74px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0px 0px 0px 5px rgba(255, 255, 255, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background-color: var(--dl-color-default-ffffff);
+}
+ 
+.henripayfaisal-frame4146 {
+  top: 21px;
+  left: 12px;
+  width: 105px;
+  height: 32px;
+  position: absolute;
+}
+ 
+.henripayfaisal-section1 {
+  top: 918px;
+  left: 0px;
+  width: 100%;
+  height: 1073px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.henripayfaisal-frame27 {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 1073px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: flex-end;
+}
+ 
+.henripayfaisal-ellipse102 {
+  top: 76px;
+  left: 5px;
+  width: 550px;
+  height: 550px;
+  opacity: 0.50;
+  position: absolute;
+}
+ 
+.henripayfaisal-ellipse92 {
+  right: 4px;
+  width: 550px;
+  bottom: 64px;
+  height: 550px;
+  opacity: 0.35;
+  position: absolute;
+}
+ 
+.henripayfaisal-frame4086 {
+  gap: 62px;
+  top: 443px;
+  left: 0px;
+  right: 0px;
+  width: 1102px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: center;
+}
+ 
+.henripayfaisal-frame4085 {
+  width: 440.0000305175781px;
+  height: 352px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.henripayfaisal-group61 {
+  top: 0px;
+  left: 0px;
+  width: 440.0000305175781px;
+  height: 284.1011047363281px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector31 {
+  top: 97px;
+  left: 60px;
+  width: 32px;
+  height: 1px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group37361 {
+  top: 13px;
+  left: 0px;
+  width: 440.0000305175781px;
+  height: 271.1011047363281px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector32 {
+  top: 79px;
+  left: 60px;
+  width: 32px;
+  height: 1px;
+  position: absolute;
+}
+ 
+.henripayfaisal-frame6 {
+  gap: 10px;
+  top: 58px;
+  left: 0px;
+  display: flex;
+  padding: 4px 16px;
+  position: absolute;
+  align-items: flex-start;
+  border-radius: 8px;
+  background-color: var(--dl-color-default-f3834c);
+}
+ 
+.henripayfaisal-text161 {
+  color: var(--dl-color-default-1e1e2c);
+  height: auto;
+  font-size: 14px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-frame26 {
+  gap: 10px;
+  top: 229px;
+  left: 380px;
+  display: flex;
+  padding: 4px 16px;
+  position: absolute;
+  align-items: flex-start;
+  border-radius: 8px;
+  background-color: var(--dl-color-default-f3834c);
+}
+ 
+.henripayfaisal-text165 {
+  color: var(--dl-color-default-1e1e2c);
+  height: auto;
+  font-size: 14px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-group34 {
+  top: 45px;
+  left: 0px;
+  width: 440.0000305175781px;
+  height: 226.10110473632812px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector422 {
+  top: 0px;
+  left: 81.48583984375px;
+  width: 164px;
+  height: 48px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector423 {
+  top: 19.646564483642578px;
+  left: 0px;
+  width: 205px;
+  height: 206px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector424 {
+  top: 0px;
+  left: 60.478233337402344px;
+  width: 380px;
+  height: 226px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector425 {
+  top: 138.94613647460938px;
+  left: 295.8700256347656px;
+  width: 105px;
+  height: 87px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group3733 {
+  top: 0px;
+  left: 368px;
+  width: 40px;
+  height: 80px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.henripayfaisal-line231 {
+  top: 23px;
+  left: 20.5px;
+  width: 57px;
+  height: 1px;
+  position: absolute;
+}
+ 
+.henripayfaisal-ellipse871 {
+  top: -5px;
+  left: -10px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+}
+ 
+.henripayfaisal-text169 {
+  top: 13px;
+  left: -8px;
+  color: var(--dl-color-default-1e1e2c);
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-group3734 {
+  top: 80px;
+  left: 301px;
+  width: 40px;
+  height: 80px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.henripayfaisal-line232 {
+  top: 23px;
+  left: 20.5px;
+  width: 57px;
+  height: 1px;
+  position: absolute;
+}
+ 
+.henripayfaisal-ellipse872 {
+  top: -5px;
+  left: -10px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+}
+ 
+.henripayfaisal-text173 {
+  top: 13px;
+  left: 4px;
+  color: var(--dl-color-default-1e1e2c);
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-group37362 {
+  top: 180px;
+  left: 296px;
+  width: 40px;
+  height: 80px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.henripayfaisal-ellipse873 {
+  top: -5px;
+  left: -10px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+}
+ 
+.henripayfaisal-text177 {
+  top: 5px;
+  left: -6px;
+  color: var(--dl-color-default-1e1e2c);
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-group3732 {
+  top: 178px;
+  left: 207px;
+  width: 40px;
+  height: 80px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.henripayfaisal-line233 {
+  top: 23px;
+  left: 20.5px;
+  width: 57px;
+  height: 1px;
+  position: absolute;
+}
+ 
+.henripayfaisal-ellipse874 {
+  top: -5px;
+  left: -10px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+}
+ 
+.henripayfaisal-text181 {
+  top: 7px;
+  left: -4px;
+  color: var(--dl-color-default-1e1e2c);
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-group3730 {
+  top: 40px;
+  left: 214px;
+  width: 40px;
+  height: 80px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.henripayfaisal-line234 {
+  top: 23px;
+  left: 20.5px;
+  width: 57px;
+  height: 1px;
+  position: absolute;
+}
+ 
+.henripayfaisal-ellipse875 {
+  top: -5px;
+  left: -10px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+}
+ 
+.henripayfaisal-text187 {
+  top: 13px;
+  color: var(--dl-color-default-1e1e2c);
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-group3731 {
+  top: 160px;
+  left: 69px;
+  width: 40px;
+  height: 80px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.henripayfaisal-line235 {
+  top: 23px;
+  left: 20.5px;
+  width: 57px;
+  height: 1px;
+  position: absolute;
+}
+ 
+.henripayfaisal-ellipse876 {
+  top: -5px;
+  left: -10px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+}
+ 
+.henripayfaisal-text191 {
+  top: 13px;
+  left: -5px;
+  color: var(--dl-color-default-1e1e2c);
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-group37352 {
+  top: 103px;
+  left: 134px;
+  width: 40px;
+  height: 80px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.henripayfaisal-line236 {
+  top: 23px;
+  left: 20.5px;
+  width: 57px;
+  height: 1px;
+  position: absolute;
+}
+ 
+.henripayfaisal-ellipse877 {
+  top: -5px;
+  left: -10px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+}
+ 
+.henripayfaisal-text195 {
+  top: 13px;
+  left: -4px;
+  color: var(--dl-color-default-1e1e2c);
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-frame25 {
+  gap: 10px;
+  top: 0px;
+  left: 136px;
+  display: flex;
+  padding: 4px 16px;
+  position: absolute;
+  align-items: flex-start;
+  border-radius: 15px;
+  justify-content: center;
+  background-color: var(--dl-color-color-red);
+}
+ 
+.henripayfaisal-text199 {
+  color: var(--dl-color-default-ffffff);
+  height: auto;
+  font-size: 16px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-group32 {
+  width: 94px;
+  height: 181px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector14 {
+  top: 0px;
+  left: 1px;
+  width: 92px;
+  height: 181px;
+  position: absolute;
+}
+ 
+.henripayfaisal-union {
+  top: 45px;
+  left: 0px;
+  width: 94px;
+  height: 91px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.henripayfaisal-frame4084 {
+  width: 444px;
+  height: 352px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.henripayfaisal-group3740 {
+  top: 60px;
+  left: 0px;
+  width: 444px;
+  height: 228px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group13 {
+  top: 0px;
+  left: 0px;
+  width: 158px;
+  height: 94px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-text200 {
+  top: 70px;
+  color: rgba(255, 255, 255, 1);
+  width: 158px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-frame46 {
+  top: 0px;
+  left: 54px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group15 {
+  top: 134px;
+  left: 144px;
+  width: 158px;
+  height: 94px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-text201 {
+  top: 70px;
+  color: rgba(255, 255, 255, 1);
+  width: 158px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-frame47 {
+  top: 0px;
+  left: 57px;
+  width: 44px;
+  height: 50px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group14 {
+  top: 0px;
+  left: 286px;
+  width: 158px;
+  height: 166px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-text202 {
+  top: 70px;
+  color: rgba(255, 255, 255, 1);
+  width: 158px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-frame48 {
+  top: 0px;
+  left: 51px;
+  width: 56px;
+  height: 50px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector15 {
+  top: 122px;
+  left: 82px;
+  width: 62px;
+  height: 94px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector16 {
+  top: 182px;
+  left: 365px;
+  width: 62px;
+  height: 34px;
+  position: absolute;
+}
+ 
+.henripayfaisal-frame242 {
+  gap: 10px;
+  top: 0px;
+  left: 151px;
+  width: 143px;
+  display: flex;
+  padding: 4px 16px;
+  position: absolute;
+  align-items: flex-start;
+  border-radius: 15px;
+  justify-content: center;
+  background-color: var(--dl-color-color-green);
+}
+ 
+.henripayfaisal-text203 {
+  color: var(--dl-color-default-ffffff);
+  height: auto;
+  font-size: 16px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-group38 {
+  top: 108px;
+  left: 0px;
+  right: 0px;
+  width: 937px;
+  height: 280px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 1;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+ 
+.henripayfaisal-group302 {
+  top: 0px;
+  left: 172px;
+  width: 594px;
+  height: 176px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-text204 {
+  top: 48px;
+  color: var(--dl-color-default-ffffff);
+  width: 594px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 64px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-text205 {
+  left: 187px;
+  color: var(--dl-color-default-ffb60e);
+  width: 220px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 32px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-text206 {
+  top: 208px;
+  color: var(--dl-color-default-ffffff);
+  width: 937px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-button4 {
+  gap: 10px;
+  top: 920px;
+  left: 0px;
+  right: 0px;
+  width: 239px;
+  margin: auto;
+  display: flex;
+  padding: 5px;
+  position: absolute;
+  align-items: flex-start;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 50px;
+  flex-direction: column;
+}
+ 
+.henripayfaisal-frame112 {
+  gap: 10px;
+  width: 100%;
+  display: flex;
+  align-self: center;
+  background: linear-gradient(-60deg, rgba(252, 75, 44, 1) 0%, rgba(255, 182, 14, 1) 100%);
+  align-items: flex-start;
+  padding-top: 14px;
+  padding-left: 14px;
+  border-radius: 50px;
+  padding-right: 14px;
+  padding-bottom: 14px;
+  justify-content: center;
+  background-color: var(--dl-color-default-linear);
+}
+ 
+.henripayfaisal-text207 {
+  color: var(--dl-color-default-1e1e2c);
+  height: auto;
+  font-size: 16px;
+  font-style: Semi Bold;
+  text-align: right;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-text208 {
+  top: 824px;
+  left: 0px;
+  color: rgba(255, 255, 255, 1);
+  right: 0px;
+  width: 535px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 32px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-component16 {
+  gap: 46px;
+  top: 830px;
+  left: -29px;
+  width: 2280px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.henripayfaisal-frame4079 {
+  gap: 57px;
+  width: 2280px;
+  display: flex;
+  opacity: 0.50;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.henripayfaisal-polygonlogo99647ca {
+  width: 167px;
+  height: 35px;
+}
+ 
+.henripayfaisal-frame40811 {
+  gap: 15px;
+  display: flex;
+  align-items: center;
+}
+ 
+.henripayfaisal-ethereumlogo20141 {
+  width: 30px;
+  height: 48px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.henripayfaisal-group245 {
+  top: 0px;
+  left: 0px;
+  width: 29.999897003173828px;
+  height: 47.98925018310547px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector426 {
+  top: 0px;
+  left: 14.667901992797852px;
+  width: 15px;
+  height: 33px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector427 {
+  top: 0px;
+  left: 0px;
+  width: 15px;
+  height: 33px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector428 {
+  top: 27.232988357543945px;
+  left: 14.810871124267578px;
+  width: 15px;
+  height: 21px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector429 {
+  top: 27.23282814025879px;
+  left: 0px;
+  width: 15px;
+  height: 21px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector430 {
+  top: 17.74488639831543px;
+  left: 14.995440483093262px;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector431 {
+  top: 17.744897842407227px;
+  left: 0.00010546874545980245px;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+}
+ 
+.henripayfaisal-text209 {
+  color: var(--dl-color-default-grey);
+  width: 127px;
+  height: auto;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 32px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-frame40801 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+ 
+.henripayfaisal-avalancheavaxlogo {
+  width: 35px;
+  height: 35px;
+}
+ 
+.henripayfaisal-svg628692ef60aae304a6b31b36avalanchelogo {
+  width: 111px;
+  height: 11px;
+}
+ 
+.henripayfaisal-ideallogo2 {
+  width: 49px;
+  height: 43px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.henripayfaisal-group246 {
+  top: 0px;
+  left: 0px;
+  width: 49px;
+  height: 43px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group247 {
+  top: 0px;
+  left: 0px;
+  width: 49px;
+  height: 43px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector432 {
+  top: 0px;
+  left: 0px;
+  width: 49px;
+  height: 43px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector433 {
+  top: 6.948851108551025px;
+  left: 14.711204528808594px;
+  width: 27px;
+  height: 29px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group248 {
+  top: 2.9325428009033203px;
+  left: 2.9934661388397217px;
+  width: 43.02907180786133px;
+  height: 37.150856018066406px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group249 {
+  top: 0px;
+  left: 0px;
+  width: 43.02907180786133px;
+  height: 37.150856018066406px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector434 {
+  top: 0px;
+  left: 0px;
+  width: 43px;
+  height: 37px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group250 {
+  top: 17.802446365356445px;
+  left: 16.103885650634766px;
+  width: 24.33191680908203px;
+  height: 6.486656665802002px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector435 {
+  top: 0px;
+  left: 0px;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector436 {
+  top: 2.1021594420744805e-7px;
+  left: 6.659262657165527px;
+  width: 5px;
+  height: 6px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector437 {
+  top: 0.01593891531229019px;
+  left: 12.470108985900879px;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector438 {
+  top: 0.01593891531229019px;
+  left: 19.737667083740234px;
+  width: 5px;
+  height: 6px;
+  position: absolute;
+}
+ 
+.henripayfaisal-group251 {
+  top: 18.073389053344727px;
+  left: 6.371119976043701px;
+  width: 5.986931800842285px;
+  height: 5.96071195602417px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector439 {
+  top: 0px;
+  left: 0px;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector440 {
+  top: 25.7553768157959px;
+  left: 7.09147310256958px;
+  width: 5px;
+  height: 10px;
+  position: absolute;
+}
+ 
+.henripayfaisal-mastercard {
+  width: 63px;
+  height: 49px;
+}
+ 
+.henripayfaisal-visa {
+  width: 92px;
+  height: 58px;
+}
+ 
+.henripayfaisal-bancontactlogo11 {
+  width: 76px;
+  height: 54px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.henripayfaisal-group252 {
+  top: 0px;
+  left: 0px;
+  width: 76.16486358642578px;
+  height: 54.11713409423828px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group253 {
+  top: 0px;
+  left: 0px;
+  width: 76.16486358642578px;
+  height: 54.11713409423828px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group254 {
+  top: 8.668112754821777px;
+  left: 8.576510429382324px;
+  width: 58.893592834472656px;
+  height: 23.84902572631836px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector441 {
+  top: 6.419089317321777px;
+  left: -4.947925162923639e-7px;
+  width: 52px;
+  height: 17px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector442 {
+  top: 4.344286352875315e-8px;
+  left: 6.409077167510986px;
+  width: 52px;
+  height: 17px;
+  position: absolute;
+}
+ 
+.henripayfaisal-vector443 {
+  top: 36.80433654785156px;
+  left: 8.576510429382324px;
+  width: 59px;
+  height: 9px;
+  position: absolute;
+}
+ 
+.henripayfaisal-giropay1 {
+  width: 98px;
+  height: 45px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.henripayfaisal-layer12 {
+  top: 2.3428497314453125px;
+  left: 1.8846721649169922px;
+  width: 94.23066711425781px;
+  height: 40.31429672241211px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-svg92653320 {
+  top: 0px;
+  left: 0px;
+  width: 94px;
+  height: 40px;
+  position: absolute;
+}
+ 
+.henripayfaisal-svg92186184 {
+  top: 2.960925340652466px;
+  left: 2.9984230995178223px;
+  width: 85px;
+  height: 34px;
+  position: absolute;
+}
+ 
+.henripayfaisal-svg47303032 {
+  top: 10.85148811340332px;
+  left: 7.957448959350586px;
+  width: 39px;
+  height: 19px;
+  position: absolute;
+}
+ 
+.henripayfaisal-apple-paylogo {
+  width: 97px;
+  height: 40px;
+}
+ 
+.henripayfaisal-frame40812 {
+  gap: 57px;
+  width: 2280px;
+  display: flex;
+  opacity: 0.50;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.henripayfaisal-frame40813 {
+  gap: 15px;
+  display: flex;
+  align-items: center;
+}
+ 
+.henripayfaisal-ethereumlogo20142 {
+  width: 30px;
+  height: 48px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.henripayfaisal-group255 {
+  top: 0px;
+  left: 0px;
+  width: 29.999897003173828px;
+  height: 47.98925018310547px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-text210 {
+  color: var(--dl-color-default-grey);
+  width: 127px;
+  height: auto;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 32px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-frame40802 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+ 
+.henripayfaisal-ideallogo3 {
+  width: 49px;
+  height: 43px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.henripayfaisal-group256 {
+  top: 0px;
+  left: 0px;
+  width: 49px;
+  height: 43px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group257 {
+  top: 0px;
+  left: 0px;
+  width: 49px;
+  height: 43px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group258 {
+  top: 2.9325428009033203px;
+  left: 2.9934661388397217px;
+  width: 43.02907180786133px;
+  height: 37.150856018066406px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group259 {
+  top: 0px;
+  left: 0px;
+  width: 43.02907180786133px;
+  height: 37.150856018066406px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group260 {
+  top: 17.802446365356445px;
+  left: 16.103885650634766px;
+  width: 24.33191680908203px;
+  height: 6.486656665802002px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group261 {
+  top: 18.073389053344727px;
+  left: 6.371119976043701px;
+  width: 5.986931800842285px;
+  height: 5.96071195602417px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-bancontactlogo12 {
+  width: 76px;
+  height: 54px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.henripayfaisal-group262 {
+  top: 0px;
+  left: 0px;
+  width: 76.16486358642578px;
+  height: 54.11713409423828px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group263 {
+  top: 0px;
+  left: 0px;
+  width: 76.16486358642578px;
+  height: 54.11713409423828px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group264 {
+  top: 8.668112754821777px;
+  left: 8.576510429382324px;
+  width: 58.893592834472656px;
+  height: 23.84902572631836px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-giropay2 {
+  width: 98px;
+  height: 45px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.henripayfaisal-layer13 {
+  top: 2.3428497314453125px;
+  left: 1.8846721649169922px;
+  width: 94.23066711425781px;
+  height: 40.31429672241211px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-hero {
+  top: 0px;
+  width: 100%;
+  height: 800px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  background-color: #D9D9D9;
+}
+ 
+.henripayfaisal-group55 {
+  top: 200px;
+  left: 0px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 1;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding-left: 0px;
+  padding-right: 0px;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.henripayfaisal-frame44 {
+  gap: 20px;
+  top: 0px;
+  left: 0px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.henripayfaisal-text211 {
+  color: rgba(255, 182, 14, 1);
+  width: 553px;
+  height: auto;
+  font-size: 56px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 72px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-text212 {
+  color: var(--dl-color-default-ffb60e);
+}
+ 
+.henripayfaisal-text215 {
+  color: rgba(0, 0, 0, 1);
+  width: 534px;
+  height: auto;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 32px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-frame4126 {
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.henripayfaisal-button5 {
+  gap: 10px;
+  display: flex;
+  padding: 5px;
+  align-items: flex-start;
+  border-color: #fc4b2c;
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 50px;
+  flex-direction: column;
+}
+ 
+.henripayfaisal-frame113 {
+  gap: 10px;
+  display: flex;
+  padding: 14px 32px;
+  background: linear-gradient(-60deg, rgba(252, 75, 44, 1) 0%, rgba(255, 182, 14, 1) 100%);
+  align-items: flex-start;
+  border-radius: 50px;
+  background-color: var(--dl-color-default-linear);
+}
+ 
+.henripayfaisal-text216 {
+  color: var(--dl-color-default-ffffff);
+  height: auto;
+  font-size: 16px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-button6 {
+  gap: 10px;
+  display: flex;
+  padding: 5px;
+  align-items: flex-start;
+  border-style: solid;
+  border-width: 0px;
+  border-radius: 50px;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.henripayfaisal-frame114 {
+  gap: 10px;
+  display: flex;
+  padding: 14px 32px;
+  align-items: flex-start;
+  border-radius: 50px;
+}
+ 
+.henripayfaisal-text217 {
+  color: #020202;
+  height: auto;
+  font-size: 16px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-caret-down1 {
+  width: 19px;
+  height: 19px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.henripayfaisal-caret-down2 {
+  top: 0px;
+  left: 0px;
+  width: 19px;
+  height: 19px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-vector444 {
+  top: 7.125px;
+  left: 3.5625px;
+  width: 12px;
+  height: 6px;
+  position: absolute;
+}
+ 
+.henripayfaisal-new-macbook-pro-mockup-front-view151 {
+  top: 50px;
+  right: 50px;
+  width: 549px;
+  height: 312px;
+  position: absolute;
+}
+ 
+.henripayfaisal-text218 {
+  top: 745px;
+  left: 0px;
+  color: var(--dl-color-default-ffb60e);
+  right: 0px;
+  width: 220px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 32px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-menus {
+  gap: 749px;
+  top: 24px;
+  left: 0px;
+  width: 1194px;
+  height: 77px;
+  display: flex;
+  padding: 10px 48px;
+  position: absolute;
+  align-items: center;
+  border-radius: 50px;
+  background-color: rgba(30, 30, 44, 0.5);
+}
+ 
+.henripayfaisal-frame4062 {
+  top: 10px;
+  left: 43px;
+  width: 1108px;
+  height: 57px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.henripayfaisal-group362 {
+  top: 7px;
+  left: 0px;
+  width: 202.50807189941406px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-group17 {
+  top: 0px;
+  left: 0px;
+  width: 45.92351150512695px;
+  height: 41.7486457824707px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.henripayfaisal-subtract4 {
+  top: 0px;
+  left: 4.32905912399292px;
+  width: 42px;
+  height: 42px;
+  position: absolute;
+}
+ 
+.henripayfaisal-ellipse34 {
+  top: 4.174854755401611px;
+  left: 0px;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.henripayfaisal-henri-pay3 {
+  top: 8.604598045349121px;
+  left: 56.407920837402344px;
+  width: 146px;
+  height: 33px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.henripayfaisal-frame64 {
+  gap: 38px;
+  top: 0px;
+  left: 299px;
+  width: 815px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+}
+ 
+.henripayfaisal-text219 {
+  color: var(--dl-color-default-ffffff);
+  height: auto;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 23.5px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-text220 {
+  color: var(--dl-color-default-ffffff);
+  height: auto;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 23.5px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-text221 {
+  color: var(--dl-color-default-ffffff);
+  height: auto;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 23.5px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-text222 {
+  color: var(--dl-color-default-ffffff);
+  height: auto;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 23.5px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.henripayfaisal-button7 {
+  gap: 10px;
+  display: flex;
+  padding: 5px;
+  align-items: flex-start;
+  border-radius: 50px;
+  flex-direction: column;
+}
+ 
+.henripayfaisal-frame115 {
+  gap: 10px;
+  display: flex;
+  padding: 14px 32px;
+  background: linear-gradient(-60deg, rgba(252, 75, 44, 1) 0%, rgba(255, 182, 14, 1) 100%);
+  align-items: flex-start;
+  border-radius: 50px;
+  background-color: var(--dl-color-default-linear);
+}
+ 
+.henripayfaisal-text223 {
+  color: var(--dl-color-default-1e1e2c);
+  height: auto;
+  font-size: 16px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+@media(max-width: 479px) {
+  .henripayfaisal-footer1 {
+    width: 100%;
+  }
+  .henripayfaisal-text100 {
+    left: 0px;
+    right: 0px;
+    width: 100%;
+    margin: auto;
+  }
+  .henripayfaisal-group47 {
+    left: 0px;
+    right: 0px;
+    margin: auto;
+  }
+  .henripayfaisal-frame4170 {
+    left: 0px;
+    width: 100%;
+  }
+  .henripayfaisal-section9 {
+    width: 100%;
+  }
+  .henripayfaisal-text107 {
+    width: 100%;
+    line-height: 52px;
+  }
+  .henripayfaisal-button1 {
+    left: 0px;
+    right: 0px;
+    margin: auto;
+  }
+  .henripayfaisal-frame11 {
+    align-self: center;
+  }
+  .henripayfaisal-section5 {
+    width: 100%;
+    padding-left: 0px;
+  }
+  .henripayfaisal-sellyour1 {
+    left: 0px;
+    right: 0px;
+    width: 100%;
+    margin: auto;
+    align-items: center;
+    flex-direction: column;
+  }
+  .henripayfaisal-rectangle82 {
+    width: 100%;
+  }
+  .henripayfaisal-frame172 {
+    top: 55px;
+    left: 0px;
+    width: 100%;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .henripayfaisal-frame152 {
+    align-self: center;
+  }
+  .henripayfaisal-text137 {
+    width: 100%;
+  }
+  .henripayfaisal-section4 {
+    top: 3482px;
+    left: 0px;
+    right: 0px;
+    width: 100%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .henripayfaisal-frame16 {
+    top: 550px;
+    left: 0px;
+    padding-left: 20px;
+  }
+  .henripayfaisal-group3742 {
+    width: 100%;
+  }
+  .henripayfaisal-opensea1 {
+    width: 287px;
+    height: 497px;
+  }
+  .henripayfaisal-group37497 {
+    left: 0px;
+    right: 0px;
+    width: 100%;
+    margin: auto;
+  }
+  .henripayfaisal-group66 {
+    left: 0px;
+    width: 100%;
+  }
+  .henripayfaisal-frame66 {
+    left: 0px;
+    width: 100%;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .henripayfaisal-text156 {
+    width: 100%;
+  }
+  .henripayfaisal-group301 {
+    left: 0px;
+    width: 100%;
+  }
+  .henripayfaisal-text157 {
+    left: 0px;
+    right: 0px;
+    width: 100%;
+    margin: auto;
+    position: absolute;
+  }
+  .henripayfaisal-ellipse102 {
+    width: 100%;
+  }
+  .henripayfaisal-ellipse92 {
+    width: 100%;
+  }
+  .henripayfaisal-frame4086 {
+    width: 100%;
+  }
+  .henripayfaisal-frame4085 {
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: auto;
+    position: static;
+    align-self: center;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .henripayfaisal-group61 {
+    top: 50px;
+    left: 0px;
+    width: 100%;
+    position: absolute;
+    align-self: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .henripayfaisal-group37361 {
+    top: 60px;
+    width: 100%;
+    margin-left: 20px;
+    padding-left: 0px;
+  }
+  .henripayfaisal-frame25 {
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .henripayfaisal-group38 {
+    width: 100%;
+  }
+  .henripayfaisal-group302 {
+    left: 0px;
+    right: 0px;
+    width: 100%;
+    margin: auto;
+    align-items: center;
+    flex-direction: column;
+  }
+  .henripayfaisal-text204 {
+    width: 100%;
+    line-height: 42px;
+  }
+  .henripayfaisal-text205 {
+    left: 0px;
+    right: 0px;
+    margin: auto;
+  }
+  .henripayfaisal-text206 {
+    width: 100%;
+  }
+  .henripayfaisal-button4 {
+    top: 950px;
+  }
+  .henripayfaisal-text208 {
+    top: 850px;
+    width: 100%;
+  }
+  .henripayfaisal-frame4079 {
+    width: 479px;
+    height: 114px;
+  }
+  .henripayfaisal-group55 {
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+  }
+  .henripayfaisal-frame44 {
+    top: 200px;
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .henripayfaisal-text211 {
+    width: 100%;
+    font-size: 30px;
+    text-align: center;
+    line-height: 32px;
+  }
+  .henripayfaisal-text215 {
+    width: 100%;
+    font-size: 16px;
+    text-align: center;
+  }
+  .henripayfaisal-frame4126 {
+    align-self: center;
+  }
+  .henripayfaisal-new-macbook-pro-mockup-front-view151 {
+    top: -72px;
+    left: 28px;
+    width: 412px;
+    height: 263px;
+  }
+  .henripayfaisal-menus {
+    width: 100%;
+  }
+}
